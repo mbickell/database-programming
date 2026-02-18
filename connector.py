@@ -19,11 +19,12 @@ cursor= connection.cursor()
 
 # Populate countries table  with some data
 
+
 # retrieve data
-cursor.execute("SELECT name, code, location FROM property")
+cursor.execute("SELECT * FROM property")
 
 # print content
-row= cursor.fetchone()
+row = cursor.fetchone()
 print(*row, sep=' ')
 
 # free resources
