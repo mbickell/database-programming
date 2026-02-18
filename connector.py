@@ -9,7 +9,7 @@ conn_params= {
     "user" : os.getenv("MARIA_DB_USER"),
     "password" : os.getenv("MARIA_DB_PASSWORD"),
     "host" : os.getenv("MARIA_DB_HOST"),
-    "database" : "e2501254_test"
+    "database" : os.getenv("MARIA_DB_DB")
 }
 
 # Establish a connection
