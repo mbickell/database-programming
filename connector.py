@@ -1,11 +1,13 @@
 import os
 import mariadb
+import sys
+import json
 from dotenv import load_dotenv
 
 load_dotenv()
 
 # connection parameters
-conn_params= {
+connection_params = {
     "user" : os.getenv("MARIA_DB_USER"),
     "password" : os.getenv("MARIA_DB_PASSWORD"),
     "host" : os.getenv("MARIA_DB_HOST"),
@@ -13,19 +15,37 @@ conn_params= {
 }
 
 # Establish a connection
-connection= mariadb.connect(**conn_params)
+try:
+    connection = mariadb.connect(**connection_params)
 
-cursor= connection.cursor()
+except mariadb.Error as e:
+    print(f"Error connecting to MariaDB Platform: {e}")
+    sys.exit(1)
+
+
+cursor = connection.cursor()
 
 # Populate countries table  with some data
 
+json_data = json.load(open('./data/electricity.json'))
+for datum in json_data:
+    cursor.execute(
+        "INSERT INTO electricity (property,timestamp,value) VALUES (?, ?, ?)", 
+        (5, datum['timestamp'], datum['value']))
+
+# connection.commit()
 
 # retrieve data
-cursor.execute("SELECT * FROM property")
+try:
+    cursor.execute("SELECT * FROM electricity")
+except mariadb.Error as e: 
+    print(f"Error: {e}")
+
+data = cursor.fetchall()
 
 # print content
-row = cursor.fetchone()
-print(*row, sep=' ')
+for datum in data:
+    print(f"id: {datum[0]}, property: {datum[1]} timestamp: {datum[2]}, value: {datum[3]}")
 
 # free resources
 cursor.close()
