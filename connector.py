@@ -31,7 +31,7 @@ json_data = json.load(open('./data/electricity.json'))
 for datum in json_data:
     cursor.execute(
         "INSERT INTO electricity (property,timestamp,value) VALUES (?, ?, ?)", 
-        (5, datum['timestamp'], datum['value']))
+        (1, datum['timestamp'], datum['value']))
 
 # connection.commit()
 
