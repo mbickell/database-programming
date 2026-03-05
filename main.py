@@ -16,7 +16,7 @@ cursor = connection.cursor()
 # insert_electricity(cursor)
 # read_data(cursor, mariadb)
 
-begin_cmd()
+begin_cmd(cursor, connection, mariadb)
 
 # free resources
 cursor.close()

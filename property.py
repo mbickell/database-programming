@@ -1,3 +1,25 @@
+def begin_cmd(cursor, connection, mariadb):
+  while(1):
+    print("Select your operation ([L]ist, [A]dd, [D]elete, e[X]it)")
+    command = input().lower()
+
+    print()
+
+    match command:
+      case "l":
+        print_properties(cursor, mariadb)
+      case "a":
+        property = request_property()
+        add_property(cursor, property)
+        commit_property(connection, property)
+      case "d":
+        print("Recived D")
+      case "x":
+        print("Exiting...")
+        break
+      case _:
+        print(command)
+
 def list_propeties(cursor, mariadb):
   try:
     cursor.execute("SELECT * FROM property")
@@ -7,20 +29,50 @@ def list_propeties(cursor, mariadb):
   data = cursor.fetchall()
   return data
 
-def begin_cmd():
-  while(1):
-    print("Select your operation ([L]ist, [A]dd, [D]elete, e[X]it)")
-    command = input().lower()
+def print_properties(cursor, mariadb):
+  data = list_propeties(cursor, mariadb)
 
-    match command:
-      case "l":
-        print("Recived L")
-      case "a":
-        print("Recived A")
-      case "d":
-        print("Recived D")
-      case "x":
-        print("Exiting")
+  for datum in data:
+    print(f"id: {datum[0]}, code: {datum[1]}, name: {datum[2]}, location: {datum[3]}")
+
+  print()
+
+def add_property(cursor, property):
+  cursor.execute(
+    "INSERT INTO property (code,name,location) VALUES (?, ?, ?)",
+    (property["code"], property["name"], property["location"])
+  )
+
+def request_property():
+  print("Give details of a property to add in semi-colon (;) seperated list in the format: code; name; location")
+  print("e.g: 091-010-0669-0001; 2418 Päiväkoti Ariel; 2418 Päiväkoti Ariel")
+
+  user_input = input().split(';')
+
+  property = {
+    "code": user_input[0].strip(),
+    "name": user_input[1].strip(),
+    "location": user_input[2].strip()
+  }
+
+  return property
+
+def commit_property(connection, property):
+  
+  while (1):
+    print(f"Property with values - code: {property["code"]}, name: {property["name"]}, location: {property["location"]}")
+    print("Is ready to commit, please press [Y] to commit or [N] to rollback")
+
+    user_input = input().lower()
+
+    match user_input:
+      case "y":
+        print("Committing...")
+        connection.commit()
+        break
+      case "n":
+        print("Rolling back...")
+        connection.rollback()
         break
       case _:
-        print(command)
+        print("Command not recognised")
