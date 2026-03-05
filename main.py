@@ -1,6 +1,7 @@
 import sys
 import mariadb
 from connector import connection_params, read_data, insert_electricity
+from property import begin_cmd
 
 # Establish a connection
 try:
@@ -14,6 +15,8 @@ cursor = connection.cursor()
 
 # insert_electricity(cursor)
 # read_data(cursor, mariadb)
+
+begin_cmd()
 
 # free resources
 cursor.close()
