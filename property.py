@@ -38,8 +38,6 @@ def print_properties(cursor, mariadb):
   for datum in data:
     print(f"id: {datum[0]}, code: {datum[1]}, name: {datum[2]}, location: {datum[3]}")
 
-  print()
-
 def add_property(cursor, property):
   cursor.execute(
     "INSERT INTO property (code,name,location) VALUES (?, ?, ?)",
