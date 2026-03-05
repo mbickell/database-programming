@@ -20,7 +20,7 @@ def read_json_data():
         print("File not opened")
 
 # Populate countries table  with some data
-def insert_electricity(cursor):
+def insert_electricity(cursor, connection):
     json_data = read_json_data()
     for datum in json_data:
         cursor.execute(
@@ -29,7 +29,7 @@ def insert_electricity(cursor):
     connection.commit()
 
 # retrieve data
-def read_data(cursor):
+def read_data(cursor, mariadb):
     try:
         cursor.execute("SELECT * FROM electricity")
     except mariadb.Error as e: 
