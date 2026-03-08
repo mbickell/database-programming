@@ -1,6 +1,8 @@
+from stats import stats_menu
+
 def begin_cmd(cursor, connection, mariadb):
   while(1):
-    print("Select your operation ([L]ist, [A]dd, [D]elete, e[X]it)")
+    print("Select your operation ([L]ist, [A]dd, [D]elete, E[X]it, [S]tats)")
     command = input().lower()
 
     print()
@@ -15,6 +17,8 @@ def begin_cmd(cursor, connection, mariadb):
       case "d":
         id = delete_property()
         commit_property_deletion(cursor, mariadb, connection, id)
+      case "s":
+        stats_menu(cursor, mariadb, connection)
       case "x":
         print("Exiting...")
         break
