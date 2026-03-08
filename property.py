@@ -15,7 +15,7 @@ def begin_cmd(cursor, connection, mariadb):
         add_property(cursor, property)
         commit_property_add(connection, property)
       case "d":
-        id = delete_property()
+        id = request_id_to_delete()
         commit_property_deletion(cursor, mariadb, connection, id)
       case "s":
         stats_menu(cursor, mariadb, connection)
@@ -49,7 +49,7 @@ def add_property(cursor, property):
   )
 
 def request_property():
-  print("Give details of a property to add in semi-colon (;) seperated list in the format: code; name; location")
+  print("Give details of a property to add in a semi-colon (;) seperated list in the format: code; name; location")
   print("e.g: 091-010-0669-0001; 2418 Päiväkoti Ariel; 2418 Päiväkoti Ariel")
 
   user_input = input().split(';')
@@ -67,6 +67,7 @@ def commit_property_add(connection, property):
   while (1):
     print(f"Property with values - code: {property["code"]}, name: {property["name"]}, location: {property["location"]}")
     print("Is ready to commit, please press [Y] to commit or [N] to rollback")
+    print()
 
     user_input = input().lower()
 
@@ -103,7 +104,7 @@ def commit_property_deletion(cursor, mariadb, connection, id):
       case _:
         print("Command not recognised")
 
-def delete_property():
+def request_id_to_delete():
   print("Enter the id of the property to be deleted")
   
   user_input = input().strip()
