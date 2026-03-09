@@ -17,9 +17,11 @@ def stats_menu(cursor, mariadb, connection):
       case "a":
         print(get_average_value(cursor, mariadb, propertyID))
       case "n":
-        print(get_minimum_value(cursor, mariadb, propertyID))
+        data = get_minimum_value(cursor, mariadb, propertyID)
+        print(f"value: {data[3]}, timestamp: {data[2]}")
       case "m":
-        print(get_maximum_value(cursor, mariadb, propertyID))
+        data = get_maximum_value(cursor, mariadb, propertyID)
+        print(f"value: {data[3]}, timestamp: {data[2]}")
       case "p":
         print("Select a new property with it's id number")
         propertyID = int(input().lower())
@@ -50,18 +52,18 @@ def get_average_value(cursor, mariadb, propertyID):
 
 def get_minimum_value(cursor, mariadb, propertyID):
   try:
-    cursor.execute(f"SELECT min(value) FROM electricity WHERE property={propertyID}")
+    cursor.execute(f"SELECT * FROM electricity WHERE value = (SELECT min(value) FROM electricity WHERE property={propertyID})")
   except mariadb.Error as e:
     print(f"Error: {e}")
   
   data = cursor.fetchone()
-  return data[0]
+  return data
 
 def get_maximum_value(cursor, mariadb, propertyID):
   try:
-    cursor.execute(f"SELECT max(value) FROM electricity WHERE property={propertyID}")
+    cursor.execute(f"SELECT * FROM electricity WHERE value = (SELECT max(value) FROM electricity WHERE property={propertyID})")
   except mariadb.Error as e:
     print(f"Error: {e}")
   
   data = cursor.fetchone()
-  return data[0]
+  return data

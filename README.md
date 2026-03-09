@@ -13,3 +13,5 @@ Needs more error handling
   - Max?
   - Avg?
   - Total?
+
+- Also attach datetime to min and max (no joins)
