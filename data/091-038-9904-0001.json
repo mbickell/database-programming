@@ -1,0 +1,2557 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 235.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 281.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 291.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 290.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 280.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 281.88,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 233.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 240.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 244.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 248.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 236.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 289.42,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 246.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 224.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 245.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 238.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 247.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 204.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 228.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 280.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 279.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 270.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 257.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 253.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 202.13,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 197.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 260.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 242.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 227.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 241.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 247.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 232.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 247.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 301.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 315.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 274.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 262.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 284.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 266.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 267.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 285.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 274.32,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 285.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 283.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 325.32,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 307.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 324.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 311.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 283.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 296.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 290.61,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 276.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 232.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 231.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 259.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 256.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 257.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 260.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 246.01,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 222.23,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 215.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 234.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 232.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 217.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 192.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 217.86,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 167,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 199.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 214,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 264.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 271.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 267.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 273.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 220.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 227.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 268.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 224.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 202.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 227.66,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 235.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 222.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 210.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 242.97,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 215.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 207.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 209.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 211.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 145.23,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 151.86,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 166.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 162.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 126.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 122.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 188.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 228.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 225.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 217.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 228.81,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 233.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 252.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 257.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 173.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 134.42,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 138.46,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 125.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 109.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 129.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 118.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 71.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 134.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 182.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 196.13,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 170.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 197.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 215.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 177.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 175.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 148.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 123.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 198.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 164.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 146.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 125.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 152.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 194.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 193.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 209.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 201.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 176.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 139.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 115.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 111.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 106.42,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 156.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 128.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 84.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 87.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 70.62,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 74.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 90.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 117.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 94.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 116.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 111.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 86.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 94.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 78.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 72.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 57.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 64.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 68.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 63.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 93.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 68.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 69.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 70.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 67.61,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 50.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 53.67,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 81.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 69.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 99.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 75.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 59.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 51.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 41.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 43.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 44.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 54.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 83.81,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 61.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 83.13,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 73.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 89.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 70.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 77.72,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 67.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 58.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 53.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 57.32,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 49.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 47.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 54.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 66.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 72.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 69.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 63.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 62.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 62.97,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 55.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 48.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 37.61,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 37.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 41.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 41.75,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 41.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 37.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 41.88,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 47.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 50.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 44.72,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 26.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 28.13,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 30.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 28.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 31.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 29.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 31.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 34.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 34.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 37.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 33.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 44.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 51.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 50.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 51.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 53.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 47.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 47.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 47.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 45.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 37.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.86,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 33.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 30.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 29.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 29.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 27.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 32.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 40.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 60.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 67.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 71.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 56.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 44.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 83.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 134.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 148.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 125.86,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 117.13,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 109.05,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 130.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 152.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 165.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 141.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 156.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 169.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 141.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 112.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 106.05,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 89.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 94.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 93.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 121.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 126.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 153.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 165.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 167.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 155.58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 144.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 205.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 224.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 206.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 187.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 163.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 163.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 152.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 134.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 109.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 123.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 144.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 160.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 153.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 163.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 149.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 163.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 141.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 127.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 135.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 105.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 108.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 113.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 131.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 146.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 185.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 173.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 138.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 129.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 218.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 238.58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 194.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 216.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 252.23,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 279.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 213.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 213.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 232.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 169.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 198.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 238.58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 258.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 234.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 155.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 158.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 165.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 178.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 171.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 179.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 199.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 180.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 173.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 186.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 191.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 166.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 197.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 163.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 260.88,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 271.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 233.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 178.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 160.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 162.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 180.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 165.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 157.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 189.42,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 240.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 290.09,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 244.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 180.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 205.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 203.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 245.09,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 247.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 279.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4199 Leikkipuisto Traktori",
+    "value": 328.86,
+    "unit": "kWh"
+  }
+]
