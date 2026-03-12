@@ -2,6 +2,8 @@ import argparse
 from terminal.property import begin_property_cli 
 from terminal.electricty import get_property_code
 from crud.property.read import check_property_exists
+from crud.property.add import add_property
+from crud.electricity.add import read_json_data
 
 def begin_cmd(cursor, connection, mariadb):
   parser = argparse.ArgumentParser()
@@ -11,7 +13,15 @@ def begin_cmd(cursor, connection, mariadb):
   
   if (args.file):
     code = get_property_code(args.file)
-    print(check_property_exists(cursor, mariadb, code))
+    exists = check_property_exists(cursor, mariadb, code)
+    if exists:
+      print("Property already exists")
+    else:
+      electricity_data = read_json_data(args.file)
+      location_name = electricity_data[0]["locationName"]
+      print({"code": code, "name": location_name, "location": location_name})
+      # add_property(cursor, mariadb, {"code": code, "name": location_name, "location": location_name})
+      return
   else:
     begin_property_cli(cursor, connection, mariadb)
 
