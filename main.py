@@ -1,6 +1,6 @@
 import mariadb
 from connector import cursor, connection
-from terminal.property import begin_cmd
+from terminal.cli import begin_cmd
 
 begin_cmd(cursor, connection, mariadb)
 

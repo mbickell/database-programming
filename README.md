@@ -20,7 +20,7 @@ Needs more error handling
 # Second Part
 ## Insert Electricity data
 
-- Promattically
+- Programattically
 - Use a command line argument to get property code
   - Check if code exists in the property table
   - yes?
