@@ -11,7 +11,7 @@ def insert_electricity(cursor, connection):
 
 def read_json_data():
   try:
-      with open('./data/electricity.json') as json_file:
-          return json.load(json_file)
+    with open('./data/electricity.json') as json_file:
+      return json.load(json_file)
   except:
-      print("File not opened")
+    print("File not opened")

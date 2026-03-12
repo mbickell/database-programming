@@ -1,8 +1,8 @@
 import sys
 import mariadb
 from connector import connection_params
-from property import begin_cmd
-from insert import insert_electricity
+from terminal.property import begin_cmd
+from sandbox.insert import insert_electricity
 
 # Establish a connection
 try:

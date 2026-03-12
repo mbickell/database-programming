@@ -1,7 +1,7 @@
-from stats import stats_menu
-from crud.list import print_properties
-from crud.add import request_property, add_property, commit_property_add
-from crud.delete import request_id_to_delete, commit_property_deletion
+from crud.electricity.stats import stats_menu
+from crud.property.list import print_properties
+from crud.property.add import request_property, add_property, commit_property_add
+from crud.property.delete import request_id_to_delete, commit_property_deletion
 
 def begin_cmd(cursor, connection, mariadb):
   while(1):
