@@ -1,5 +1,7 @@
 import os
+import sys
 from dotenv import load_dotenv
+import mariadb
 
 load_dotenv()
 
@@ -11,17 +13,12 @@ connection_params = {
     "database" : os.getenv("MARIA_DB_DB")
 }
 
+# Establish a connection
+try:
+    connection = mariadb.connect(**connection_params)
 
-# retrieve data
-def read_data(cursor, mariadb):
-    try:
-        cursor.execute("SELECT * FROM electricity")
-    except mariadb.Error as e: 
-        print(f"Error: {e}")
+except mariadb.Error as e:
+    print(f"Error connecting to MariaDB Platform: {e}")
+    sys.exit(1)
 
-    data = cursor.fetchall()
-
-    # print content
-    for datum in data:
-        print(f"id: {datum[0]}, property: {datum[1]} timestamp: {datum[2]}, value: {datum[3]}")
-
+cursor = connection.cursor()

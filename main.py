@@ -1,21 +1,6 @@
-import sys
 import mariadb
-from connector import connection_params
+from connector import cursor, connection
 from terminal.property import begin_cmd
-from sandbox.insert import insert_electricity
-
-# Establish a connection
-try:
-    connection = mariadb.connect(**connection_params)
-
-except mariadb.Error as e:
-    print(f"Error connecting to MariaDB Platform: {e}")
-    sys.exit(1)
-
-cursor = connection.cursor()
-
-# insert_electricity(cursor, connection)
-# read_data(cursor, mariadb)
 
 begin_cmd(cursor, connection, mariadb)
 
