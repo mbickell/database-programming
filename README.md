@@ -30,3 +30,10 @@ Needs more error handling
     - get id
     - read electricty json
     - insert data
+
+## Group by
+- Group the electricity stats by property type
+  - Use SQL
+
+- Extensions
+  - Some things overall?????
