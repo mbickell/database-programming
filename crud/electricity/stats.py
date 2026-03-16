@@ -1,5 +1,3 @@
-from crud.property.read import get_property_by_id
-
 def stats_menu(cursor, mariadb):
   print("Select your property with it's id number OR enter [G] to group by property")
 
