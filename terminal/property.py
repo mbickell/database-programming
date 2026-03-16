@@ -21,7 +21,7 @@ def begin_property_cli(cursor, connection, mariadb):
         id = request_id_to_delete()
         commit_property_deletion(cursor, mariadb, connection, id)
       case "s":
-        stats_menu(cursor, mariadb, connection)
+        stats_menu(cursor, mariadb)
       case "x":
         print("Exiting...")
         break

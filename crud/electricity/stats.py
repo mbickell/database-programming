@@ -1,11 +1,22 @@
-def stats_menu(cursor, mariadb, connection):
-  print("Select your property with it's id number")
-  propertyID = int(input().lower())
+from crud.property.read import get_property_by_id
+
+def stats_menu(cursor, mariadb):
+  print("Select your property with it's id number OR enter [G] to group by property")
+
+  user_input = input().lower()
+  propertyID = None
+
+  if user_input != "g":
+    propertyID = int(user_input)
 
   while(1):
     print()
     
-    print(f"Property with id {propertyID} selected, please select your operation")
+    if propertyID:
+      print(f"Property with id {propertyID} selected, please select your operation")
+    else:
+      print("Grouping by properties")
+    
     print("[T]otal, [A]verage, Mi[N], [M]ax, Change [P]roperty, [B]ack")
     command = input().lower()
 
@@ -13,15 +24,35 @@ def stats_menu(cursor, mariadb, connection):
 
     match command:
       case "t":
-        print(get_total_entries(cursor, mariadb, propertyID))
+        if propertyID:
+          print(get_total_entries(cursor, mariadb, propertyID))
+        else:
+          data = get_group_by_total_entries(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Total: {datum[2]}")
       case "a":
-        print(get_average_value(cursor, mariadb, propertyID))
+        if propertyID:
+          print(get_average_value(cursor, mariadb, propertyID))
+        else:
+          data = get_group_by_average_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Average: {datum[2]}")
       case "n":
-        data = get_minimum_value(cursor, mariadb, propertyID)
-        print(f"value: {data[3]}, timestamp: {data[2]}")
+        if propertyID:
+          data = get_minimum_value(cursor, mariadb, propertyID)
+          print(f"value: {data[3]}, timestamp: {data[2]}")
+        else:
+          data = get_group_by_minimum_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Minimum: {datum[2]}")
       case "m":
-        data = get_maximum_value(cursor, mariadb, propertyID)
-        print(f"value: {data[3]}, timestamp: {data[2]}")
+        if propertyID:
+          data = get_maximum_value(cursor, mariadb, propertyID)
+          print(f"value: {data[3]}, timestamp: {data[2]}")
+        else:
+          data = get_group_by_maximum_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Maximum: {datum[2]}")
       case "p":
         print("Select a new property with it's id number")
         propertyID = int(input().lower())
@@ -34,21 +65,51 @@ def stats_menu(cursor, mariadb, connection):
 
 def get_total_entries(cursor, mariadb, propertyID):
   try:
-    cursor.execute(f"SELECT count(*) FROM electricity WHERE property={propertyID}")
+    cursor.execute(f"SELECT COUNT(*) FROM electricity WHERE property={propertyID}")
   except mariadb.Error as e:
     print(f"Error: {e}")
   
   data = cursor.fetchone()
   return data[0]
 
+def get_group_by_total_entries(cursor, mariadb):
+  try:
+    cursor.execute("""
+                    SELECT property.id, property.name, COUNT(electricity.value) as total 
+                    FROM electricity 
+                    LEFT JOIN property
+                    ON electricity.property = property.id
+                    GROUP BY property
+                  """)
+  except mariadb.Error as e:
+    print(f"Error: {e}")
+  
+  data = cursor.fetchall()
+  return data
+
 def get_average_value(cursor, mariadb, propertyID):
   try:
-    cursor.execute(f"SELECT avg(value) FROM electricity WHERE property={propertyID}")
+    cursor.execute(f"SELECT AVG(value) FROM electricity WHERE property={propertyID}")
   except mariadb.Error as e:
     print(f"Error: {e}")
   
   data = cursor.fetchone()
   return round(data[0], 3)
+
+def get_group_by_average_value(cursor, mariadb):
+  try:
+    cursor.execute("""
+                    SELECT property.id, property.name, AVG(electricity.value) as total 
+                    FROM electricity 
+                    LEFT JOIN property
+                    ON electricity.property = property.id
+                    GROUP BY property
+                  """)
+  except mariadb.Error as e:
+    print(f"Error: {e}")
+  
+  data = cursor.fetchall()
+  return data
 
 def get_minimum_value(cursor, mariadb, propertyID):
   try:
@@ -59,6 +120,21 @@ def get_minimum_value(cursor, mariadb, propertyID):
   data = cursor.fetchone()
   return data
 
+def get_group_by_minimum_value(cursor, mariadb):
+  try:
+    cursor.execute("""
+                    SELECT property.id, property.name, MIN(electricity.value) as total 
+                    FROM electricity 
+                    LEFT JOIN property
+                    ON electricity.property = property.id
+                    GROUP BY property
+                  """)
+  except mariadb.Error as e:
+    print(f"Error: {e}")
+  
+  data = cursor.fetchall()
+  return data
+
 def get_maximum_value(cursor, mariadb, propertyID):
   try:
     cursor.execute(f"SELECT * FROM electricity WHERE value = (SELECT max(value) FROM electricity WHERE property={propertyID})")
@@ -66,4 +142,19 @@ def get_maximum_value(cursor, mariadb, propertyID):
     print(f"Error: {e}")
   
   data = cursor.fetchone()
+  return data
+
+def get_group_by_maximum_value(cursor, mariadb):
+  try:
+    cursor.execute("""
+                    SELECT property.id, property.name, MAX(electricity.value) as total 
+                    FROM electricity 
+                    LEFT JOIN property
+                    ON electricity.property = property.id
+                    GROUP BY property
+                  """)
+  except mariadb.Error as e:
+    print(f"Error: {e}")
+  
+  data = cursor.fetchall()
   return data

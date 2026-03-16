@@ -13,11 +13,20 @@ def print_properties(cursor, mariadb):
   for datum in data:
     print(f"id: {datum[0]}, code: {datum[1]}, name: {datum[2]}, location: {datum[3]}")
 
-def get_property(cursor, mariadb, property_code):
+def get_property_by_code(cursor, mariadb, property_code):
   try:
     cursor.execute(f"SELECT * FROM property WHERE code=\"{property_code}\"")
   except mariadb.Error as e:
     print(f"Error: {e}")
 
   data = cursor.fetchall()
+  return data
+
+def get_property_by_id(cursor, mariadb, propertyID):
+  try:
+    cursor.execute(f"SELECT * FROM property WHERE id=\"{propertyID}\"")
+  except mariadb.Error as e:
+    print(f"Error: {e}")
+
+  data = cursor.fetchone()
   return data
