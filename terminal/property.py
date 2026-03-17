@@ -1,4 +1,4 @@
-from crud.electricity.stats import stats_menu
+from terminal.electricty import begin_stats_cli
 from crud.property.read import print_properties
 from crud.property.add import request_property, add_property, commit_property_add
 from crud.property.delete import request_id_to_delete, commit_property_deletion
@@ -21,7 +21,7 @@ def begin_property_cli(cursor, connection, mariadb):
         id = request_id_to_delete()
         commit_property_deletion(cursor, mariadb, connection, id)
       case "s":
-        stats_menu(cursor, mariadb)
+        begin_stats_cli(cursor, mariadb)
       case "x":
         print("Exiting...")
         break
