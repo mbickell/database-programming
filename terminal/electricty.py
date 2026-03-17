@@ -22,47 +22,58 @@ def begin_stats_cli(cursor, mariadb):
     else:
       print("Grouping by properties")
     
-    print("[T]otal, [A]verage, Mi[N], [M]ax, Change [P]roperty, [B]ack")
+    print("[T]otal, [A]verage, Mi[N], [M]ax, Change [P]roperty, Switch to [G]roup by mode, [B]ack")
     command = input().lower()
 
     print()
 
     match command:
-      case "t":
-        if propertyID:
-          print(stats.get_total_entries(cursor, mariadb, propertyID))
-        else:
-          data = stats.get_group_by_total_entries(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Total: {datum[2]}")
-      case "a":
-        if propertyID:
-          print(stats.get_average_value(cursor, mariadb, propertyID))
-        else:
-          data = stats.get_group_by_average_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Average: {datum[2]}")
-      case "n":
-        if propertyID:
-          data = stats.get_minimum_value(cursor, mariadb, propertyID)
-          print(f"value: {data[3]}, timestamp: {data[2]}")
-        else:
-          data = stats.get_group_by_minimum_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Minimum: {datum[2]}")
-      case "m":
-        if propertyID:
-          data = stats.get_maximum_value(cursor, mariadb, propertyID)
-          print(f"value: {data[3]}, timestamp: {data[2]}")
-        else:
-          data = stats.get_group_by_maximum_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Maximum: {datum[2]}")
       case "p":
         print("Select a new property with it's id number")
         propertyID = int(input().lower())
+      case "g":
+        propertyID = None
       case "b":
         print("Going back...")
         break
       case _:
-        print(command)
+        if propertyID:
+          property_handler(cursor, mariadb, propertyID, command)
+        else:
+          group_by_handler(cursor, mariadb, command)
+
+def property_handler(cursor, mariadb, propertyID, command):
+      match command:
+        case "t":
+          print(stats.get_total_entries(cursor, mariadb, propertyID))
+        case "a":
+          print(stats.get_average_value(cursor, mariadb, propertyID))
+        case "n":
+          data = stats.get_minimum_value(cursor, mariadb, propertyID)
+          print(f"value: {data[3]}, timestamp: {data[2]}")
+        case "m":
+          data = stats.get_maximum_value(cursor, mariadb, propertyID)
+          print(f"value: {data[3]}, timestamp: {data[2]}")
+        case _:
+          print(command)
+
+def group_by_handler(cursor, mariadb, command):
+      match command:
+        case "t":
+          data = stats.get_group_by_total_entries(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Total: {datum[2]}")
+        case "a":
+          data = stats.get_group_by_average_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Average: {datum[2]}")
+        case "n":
+          data = stats.get_group_by_minimum_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Minimum: {datum[2]}")
+        case "m":
+          data = stats.get_group_by_maximum_value(cursor, mariadb)
+          for datum in data:
+            print(f"ID: {datum[0]}, Name: {datum[1]}, Maximum: {datum[2]}")
+        case _:
+          print(command)
