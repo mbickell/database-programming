@@ -61,19 +61,19 @@ def group_by_handler(cursor, mariadb, command):
       match command:
         case "t":
           data = stats.get_group_by_total_entries(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Total: {datum[2]}")
+          group_by_printer(data, "Total")
         case "a":
           data = stats.get_group_by_average_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Average: {datum[2]}")
+          group_by_printer(data, "Average")
         case "n":
           data = stats.get_group_by_minimum_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Minimum: {datum[2]}")
+          group_by_printer(data, "Minimum")
         case "m":
           data = stats.get_group_by_maximum_value(cursor, mariadb)
-          for datum in data:
-            print(f"ID: {datum[0]}, Name: {datum[1]}, Maximum: {datum[2]}")
+          group_by_printer(data, "Maximum")
         case _:
           print(command)
+
+def group_by_printer(data, column_name):
+  for datum in data:
+    print(f"ID: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")
