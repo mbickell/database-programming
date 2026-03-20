@@ -13,7 +13,7 @@ def begin_cmd(cursor, connection, mariadb):
   
   if (args.file):
     code = get_property_code(args.file)
-    exists = len(get_property_by_code(cursor, mariadb, code)) > 0
+    exists = len(get_property_by_code(cursor, code)) > 0
 
     if exists:
       print("Property already exists")
@@ -24,7 +24,7 @@ def begin_cmd(cursor, connection, mariadb):
       add_property(cursor, mariadb, {"code": code, "name": location_name, "location": location_name})
       connection.commit()
 
-      property_id = get_property_by_code(cursor, mariadb, code)[0][0]
+      property_id = get_property_by_code(cursor, code)[0][0]
       insert_electricity(cursor, connection, electricity_data, property_id)
       print("Property and electricity data added")
   else:

@@ -12,10 +12,10 @@ def begin_property_cli(cursor, connection, mariadb):
 
     match command:
       case "l":
-        print_properties(cursor, mariadb)
+        print_properties(cursor)
       case "a":
         property = request_property()
-        add_property(cursor, mariadb, property)
+        add_property(property)
         commit_property_add(connection, property)
       case "d":
         id = request_id_to_delete()

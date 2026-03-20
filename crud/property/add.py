@@ -1,11 +1,10 @@
-def add_property(cursor, mariadb, property):
-  try:
-    cursor.execute(
+from utils import execute
+
+def add_property(property):
+    execute(
       "INSERT INTO property (code,name,location) VALUES (?, ?, ?)",
       (property["code"], property["name"], property["location"])
-    )
-  except mariadb.Error as e:
-    print(f"Error: {e}")
+      )
 
 def request_property():
   print("Give details of a property to add in a semi-colon (;) seperated list in the format: code; name; location")
