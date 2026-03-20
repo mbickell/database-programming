@@ -1,3 +1,5 @@
+from utils import execute
+
 def commit_property_deletion(cursor, mariadb, connection, id):
   data = select_property_with_id(cursor, mariadb, id)
 
@@ -10,7 +12,7 @@ def commit_property_deletion(cursor, mariadb, connection, id):
     match user_input:
       case "y":
         print("Committing...")
-        delete_property(cursor, mariadb, id)
+        delete_property(id)
         connection.commit()
         break
       case "n":
@@ -36,8 +38,5 @@ def select_property_with_id(cursor, mariadb, id):
 
   return data
 
-def delete_property(cursor, mariadb, id):
-  try:
-    cursor.execute(f"DELETE FROM property WHERE id = {id}")
-  except mariadb.Error as e:
-    print(f"Error: {e}")
+def delete_property(id):
+  execute(f"DELETE FROM property WHERE id = {id}")
