@@ -1,4 +1,5 @@
 import json
+from utils import execute
 
 def read_json_data(filename):
   try:
@@ -8,9 +9,9 @@ def read_json_data(filename):
     print("File not opened")
 
 # Populate countries table  with some data
-def insert_electricity(cursor, connection, json_data, property_id):
+def insert_electricity(connection, json_data, property_id):
     for datum in json_data:
-        cursor.execute(
+        execute(
             "INSERT INTO electricity (property,timestamp,value) VALUES (?, ?, ?)", 
             (property_id, datum['timestamp'], datum['value']))
     connection.commit()

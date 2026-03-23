@@ -1,7 +1,8 @@
 from utils import execute
+from crud.property.read import get_property_by_id
 
-def commit_property_deletion(cursor, mariadb, connection, id):
-  data = select_property_with_id(cursor, mariadb, id)
+def commit_property_deletion(cursor, connection, id):
+  data = get_property_by_id(cursor, id)
 
   while (1):
     print(f"Property: {data}")
@@ -27,16 +28,6 @@ def request_id_to_delete():
   user_input = input().strip()
 
   return user_input
-
-def select_property_with_id(cursor, mariadb, id):
-  try:
-    cursor.execute(f"SELECT * FROM property WHERE id = {id}")
-  except mariadb.Error as e:
-    print(f"Error: {e}")
-
-  data = cursor.fetchone()
-
-  return data
 
 def delete_property(id):
   execute(f"DELETE FROM property WHERE id = {id}")

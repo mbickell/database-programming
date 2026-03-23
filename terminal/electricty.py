@@ -5,7 +5,7 @@ def get_property_code(filename):
   end_of_code_index = filename.rindex('.')
   return filename[start_of_code_index:end_of_code_index]
 
-def begin_stats_cli(cursor, mariadb):
+def begin_stats_cli(cursor):
   print("Select your property with it's id number OR enter [G] to group by property")
 
   user_input = input().lower()
@@ -38,38 +38,38 @@ def begin_stats_cli(cursor, mariadb):
         break
       case _:
         if propertyID:
-          property_handler(cursor, mariadb, propertyID, command)
+          property_handler(cursor, propertyID, command)
         else:
-          group_by_handler(cursor, mariadb, command)
+          group_by_handler(cursor, command)
 
-def property_handler(cursor, mariadb, propertyID, command):
+def property_handler(cursor, propertyID, command):
       match command:
         case "t":
-          print(stats.get_total_entries(cursor, mariadb, propertyID))
+          print(stats.get_total_entries(cursor, propertyID))
         case "a":
-          print(stats.get_average_value(cursor, mariadb, propertyID))
+          print(stats.get_average_value(cursor, propertyID))
         case "n":
-          data = stats.get_minimum_value(cursor, mariadb, propertyID)
+          data = stats.get_minimum_value(cursor, propertyID)
           print(f"value: {data[3]}, timestamp: {data[2]}")
         case "m":
-          data = stats.get_maximum_value(cursor, mariadb, propertyID)
+          data = stats.get_maximum_value(cursor, propertyID)
           print(f"value: {data[3]}, timestamp: {data[2]}")
         case _:
           print(command)
 
-def group_by_handler(cursor, mariadb, command):
+def group_by_handler(cursor, command):
       match command:
         case "t":
-          data = stats.get_group_by_total_entries(cursor, mariadb)
+          data = stats.get_group_by_total_entries(cursor)
           group_by_printer(data, "Total")
         case "a":
-          data = stats.get_group_by_average_value(cursor, mariadb)
+          data = stats.get_group_by_average_value(cursor)
           group_by_printer(data, "Average")
         case "n":
-          data = stats.get_group_by_minimum_value(cursor, mariadb)
+          data = stats.get_group_by_minimum_value(cursor)
           group_by_printer(data, "Minimum")
         case "m":
-          data = stats.get_group_by_maximum_value(cursor, mariadb)
+          data = stats.get_group_by_maximum_value(cursor)
           group_by_printer(data, "Maximum")
         case _:
           print(command)

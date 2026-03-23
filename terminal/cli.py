@@ -25,9 +25,9 @@ def begin_cmd(cursor, connection, mariadb):
       connection.commit()
 
       property_id = get_property_by_code(cursor, code)[0][0]
-      insert_electricity(cursor, connection, electricity_data, property_id)
+      insert_electricity(connection, electricity_data, property_id)
       print("Property and electricity data added")
   else:
-    begin_property_cli(cursor, connection, mariadb)
+    begin_property_cli(cursor, connection)
 
 
