@@ -37,3 +37,7 @@ Needs more error handling
 
 - Extensions
   - Some things overall?????
+
+# TODO
+
+- rip out all references to real database id and use property code instead
