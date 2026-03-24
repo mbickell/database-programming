@@ -50,10 +50,10 @@ def property_handler(cursor, propertyID, command):
           print(stats.get_average_value(cursor, propertyID))
         case "n":
           data = stats.get_minimum_value(cursor, propertyID)
-          print(f"value: {data[3]}, timestamp: {data[2]}")
+          print(f"value: {data[0]}, timestamp: {data[1]}")
         case "m":
           data = stats.get_maximum_value(cursor, propertyID)
-          print(f"value: {data[3]}, timestamp: {data[2]}")
+          print(f"value: {data[0]}, timestamp: {data[1]}")
         case _:
           print(command)
 
@@ -76,4 +76,7 @@ def group_by_handler(cursor, command):
 
 def group_by_printer(data, column_name):
   for datum in data:
-    print(f"ID: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")
+      if len(datum) > 3:
+        print(f"Code: {datum[0]}, Name: {datum[1]}, Timestamp: {datum[2]}, {column_name}: {datum[3]}")
+      else:
+        print(f"Code: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")

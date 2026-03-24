@@ -40,4 +40,4 @@ Needs more error handling
 
 # TODO
 
-- rip out all references to real database id and use property code instead
+- Finish timestamp implementation on group by stat handlers to show real timestamp
