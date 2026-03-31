@@ -1,7 +1,7 @@
 from utils import execute
 
 def read_properties(cursor):
-  execute("SELECT * FROM property")
+  execute("SELECT code, name, location FROM property")
   
   data = cursor.fetchall()
   return data
@@ -10,16 +10,10 @@ def print_properties(cursor):
   data = read_properties(cursor)
 
   for datum in data:
-    print(f"code: {datum[1]}, name: {datum[2]}, location: {datum[3]}")
+    print(f"code: {datum[0]}, name: {datum[1]}, location: {datum[2]}")
 
 def get_property_by_code(cursor, property_code):
-  execute(f"SELECT * FROM property WHERE code=\"{property_code}\"")
+  execute(f"SELECT code FROM property WHERE code=\"{property_code}\"")
 
   data = cursor.fetchall()
-  return data
-
-def get_property_by_id(cursor, propertyID):
-  execute(f"SELECT * FROM property WHERE id=\"{propertyID}\"", limit=True)
-
-  data = cursor.fetchone()
   return data

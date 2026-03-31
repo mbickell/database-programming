@@ -40,4 +40,4 @@ Needs more error handling
 
 # TODO
 
-- Remove select(*)
+- clear

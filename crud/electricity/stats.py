@@ -12,7 +12,7 @@ def group_by_query_builder(specific_query):
 
 
 def get_total_entries(cursor, propertyID):
-  execute(f"SELECT COUNT(*) FROM electricity WHERE property={propertyID}", limit=True)
+  execute(f"SELECT COUNT(id) FROM electricity WHERE property={propertyID}", limit=True)
   
   data = cursor.fetchone()
   return data[0]
