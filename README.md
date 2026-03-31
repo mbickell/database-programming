@@ -40,4 +40,4 @@ Needs more error handling
 
 # TODO
 
-- Finish timestamp implementation on group by stat handlers to show real timestamp
+- Add limits to queries which only need to return 1 result

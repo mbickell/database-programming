@@ -45,6 +45,14 @@ def get_group_by_minimum_value(cursor):
   execute(group_by_query_builder("electricity.timestamp, MIN(electricity.value) as minimum"))
   
   data = cursor.fetchall()
+
+  i = 0
+  while i < len(data):
+    execute(f"SELECT timestamp FROM electricity WHERE value = {data[i][3]}", limit=True)
+    timestamp = cursor.fetchone()
+    data[i] = data[i][:2] + timestamp + data[i][3:]
+    i += 1
+
   return data
 
 def get_maximum_value(cursor, propertyID):
@@ -57,4 +65,12 @@ def get_group_by_maximum_value(cursor):
   execute(group_by_query_builder("electricity.timestamp, MAX(electricity.value) as maximum"))
   
   data = cursor.fetchall()
+
+  i = 0
+  while i < len(data):
+    execute(f"SELECT timestamp FROM electricity WHERE value = {data[i][3]}")
+    timestamp = cursor.fetchone()
+    data[i] = data[i][:2] + timestamp + data[i][3:]
+    i += 1
+
   return data
