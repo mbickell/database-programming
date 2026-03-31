@@ -40,4 +40,4 @@ Needs more error handling
 
 # TODO
 
-- clear
+- Remove id usage from stats cli
