@@ -12,7 +12,7 @@ def group_by_query_builder(specific_query):
 
 
 def get_total_entries(cursor, propertyID):
-  execute(f"SELECT COUNT(*) FROM electricity WHERE property={propertyID}")
+  execute(f"SELECT COUNT(*) FROM electricity WHERE property={propertyID}", limit=True)
   
   data = cursor.fetchone()
   return data[0]
@@ -24,7 +24,7 @@ def get_group_by_total_entries(cursor):
   return data
 
 def get_average_value(cursor, propertyID):
-  execute(f"SELECT AVG(value) FROM electricity WHERE property={propertyID}")
+  execute(f"SELECT AVG(value) FROM electricity WHERE property={propertyID}", limit=True)
   
   data = cursor.fetchone()
   return round(data[0], 3)
@@ -36,7 +36,7 @@ def get_group_by_average_value(cursor):
   return data
 
 def get_minimum_value(cursor, propertyID):
-  execute(f"SELECT value, timestamp FROM electricity WHERE value = (SELECT min(value) FROM electricity WHERE property={propertyID})")
+  execute(f"SELECT value, timestamp FROM electricity WHERE value = (SELECT min(value) FROM electricity WHERE property={propertyID})", limit=True)
   
   data = cursor.fetchone()
   return data
@@ -56,7 +56,7 @@ def get_group_by_minimum_value(cursor):
   return data
 
 def get_maximum_value(cursor, propertyID):
-  execute(f"SELECT value, timestamp FROM electricity WHERE value = (SELECT max(value) FROM electricity WHERE property={propertyID})")
+  execute(f"SELECT value, timestamp FROM electricity WHERE value = (SELECT max(value) FROM electricity WHERE property={propertyID})", limit=True)
   
   data = cursor.fetchone()
   return data
@@ -68,7 +68,7 @@ def get_group_by_maximum_value(cursor):
 
   i = 0
   while i < len(data):
-    execute(f"SELECT timestamp FROM electricity WHERE value = {data[i][3]}")
+    execute(f"SELECT timestamp FROM electricity WHERE value = {data[i][3]}", limit=True)
     timestamp = cursor.fetchone()
     data[i] = data[i][:2] + timestamp + data[i][3:]
     i += 1

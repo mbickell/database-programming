@@ -19,7 +19,7 @@ def get_property_by_code(cursor, property_code):
   return data
 
 def get_property_by_id(cursor, propertyID):
-  execute(f"SELECT * FROM property WHERE id=\"{propertyID}\"")
+  execute(f"SELECT * FROM property WHERE id=\"{propertyID}\"", limit=True)
 
   data = cursor.fetchone()
   return data

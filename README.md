@@ -40,4 +40,4 @@ Needs more error handling
 
 # TODO
 
-- Add limits to queries which only need to return 1 result
+- Remove select(*)
