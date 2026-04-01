@@ -1,4 +1,3 @@
-import mariadb
 from connector import cursor, connection
 from terminal.cli import begin_cmd
 
