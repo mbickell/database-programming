@@ -5,7 +5,7 @@ from crud.property.read import get_property_by_code
 from crud.property.add import add_property
 from crud.electricity.add import read_json_data, insert_electricity
 
-def begin_cmd(cursor, connection, mariadb):
+def begin_cmd(cursor, connection):
   parser = argparse.ArgumentParser()
   parser.add_argument('-f', '--file')
 
@@ -21,7 +21,7 @@ def begin_cmd(cursor, connection, mariadb):
       electricity_data = read_json_data(args.file)
       location_name = electricity_data[0]["locationName"]
       
-      add_property(cursor, mariadb, {"code": code, "name": location_name, "location": location_name})
+      add_property({"code": code, "name": location_name, "location": location_name})
       connection.commit()
 
       property_id = get_property_by_code(cursor, code)[0][0]
