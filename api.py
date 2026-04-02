@@ -16,17 +16,15 @@ class Employee(Base):
 
 # Base.metadata.create_all(engine)
 
-session = Session(engine)
 
 # newEmployee = Employee(first_name="Rob", last_name="Hedgpeth")
 # session.add(newEmployee)
 # session.commit()
 
-statement = select(Employee)
-rows = session.execute(statement).all()
+statement = select(Employee).where(Employee.first_name == "Rob")
+with Session(engine) as session:
+    for row in session.execute(statement):
+        print(row)
 
-employees = session.query(Employee).all()
-employee = session.query(Employee).get(1)
-
-print(rows)
-print(employee)
+row = session.execute(select(Employee)).first()
+print(row[0].first_name)
