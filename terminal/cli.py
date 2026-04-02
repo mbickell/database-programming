@@ -6,8 +6,7 @@ from crud.property.add import add_property
 from crud.electricity.add import read_json_data, insert_electricity
 
 def begin_cmd(cursor, connection):
-  parser = argparse.ArgumentParser()
-  parser.add_argument('-f', '--file')
+  parser = cli_setup()
 
   args = parser.parse_args()
   
@@ -30,4 +29,8 @@ def begin_cmd(cursor, connection):
   else:
     begin_property_cli(cursor, connection)
 
-
+def cli_setup():
+  parser = argparse.ArgumentParser()
+  parser.add_argument('-f', '--file')
+  
+  return parser
