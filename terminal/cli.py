@@ -11,21 +11,7 @@ def begin_cmd(cursor, connection):
   args = parser.parse_args()
   
   if (args.file):
-    code = get_property_code(args.file)
-    exists = len(get_property_by_code(cursor, code)) > 0
-
-    if exists:
-      print("Property already exists")
-    else:
-      electricity_data = read_json_data(args.file)
-      location_name = electricity_data[0]["locationName"]
-      
-      add_property({"code": code, "name": location_name, "location": location_name})
-      connection.commit()
-
-      property_id = get_property_by_code(cursor, code)[0][0]
-      insert_electricity(connection, electricity_data, property_id)
-      print("Property and electricity data added")
+    handle_data_push(cursor, connection, args)
   else:
     begin_property_cli(cursor, connection)
 
@@ -34,3 +20,20 @@ def cli_setup():
   parser.add_argument('-f', '--file')
   
   return parser
+
+def handle_data_push(cursor, connection, args):
+  code = get_property_code(args.file)
+  exists = len(get_property_by_code(cursor, code)) > 0
+
+  if exists:
+    print("Property already exists")
+  else:
+    electricity_data = read_json_data(args.file)
+    location_name = electricity_data[0]["locationName"]
+    
+    add_property({"code": code, "name": location_name, "location": location_name})
+    connection.commit()
+
+    property_id = get_property_by_code(cursor, code)[0][0]
+    insert_electricity(connection, electricity_data, property_id)
+    print("Property and electricity data added")
