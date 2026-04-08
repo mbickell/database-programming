@@ -16,15 +16,13 @@ class Employee(Base):
 
 # Base.metadata.create_all(engine)
 
+session = Session(engine)
 
-# newEmployee = Employee(first_name="Rob", last_name="Hedgpeth")
+# newEmployee = Employee(first_name="Bob", last_name="Mortimor")
 # session.add(newEmployee)
 # session.commit()
 
-statement = select(Employee).where(Employee.first_name == "Rob")
-with Session(engine) as session:
-    for row in session.execute(statement):
-        print(row)
-
-row = session.execute(select(Employee)).first()
-print(row[0].first_name)
+statement = select(Employee)
+for row in session.execute(statement).all():
+    for data in row:
+        print(f"{data.first_name} {data.last_name} {data.active} {data.id}")
