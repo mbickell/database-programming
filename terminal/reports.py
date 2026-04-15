@@ -39,21 +39,30 @@ def begin_report_cli(cursor):
 
         match(command):
             case "1":
-                get_total_consumption(cursor)
+                data = get_total_consumption(cursor)
+                print(data)
+                # [('2418 Päiväkoti Ariel', Decimal('222802.8493')), ('4199 Leikkipuisto Traktori', Decimal('54050.1300'))]
             case "2":
-                get_most_energy_intensive(cursor)
+                data = get_most_energy_intensive(cursor)
+                print(data)
             case "3":
-                get_average_daily(cursor)
+                data = get_average_daily(cursor)
+                print(data)
             case "4":
-                get_full_report(cursor)
+                data = get_full_report(cursor)
+                print(data)
             case "5":
-                get_detected_anomalies(cursor)
+                data = get_detected_anomalies(cursor)
+                print(data)
             case "6":
-                get_highest_daily(cursor)
+                data = get_highest_daily(cursor)
+                print(data)
             case "7":
-                get_daily_ranking(cursor)
+                data = get_daily_ranking(cursor)
+                print(data)
             case "8":
-                get_3_day_moving_average(cursor)
+                data = get_3_day_moving_average(cursor)
+                print(data)
             case "b":
                 break
             case _:

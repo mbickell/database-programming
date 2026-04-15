@@ -28,7 +28,7 @@ LIMIT 1;
           """)
 
     data = cursor.fetchone()
-    print(data)
+    return data
 
 
 def get_average_daily(cursor):
@@ -42,7 +42,7 @@ GROUP BY p.name;
         """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
 
 
 def get_full_report(cursor):
@@ -58,7 +58,7 @@ GROUP BY p.name;
       """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
 
 
 def get_detected_anomalies(cursor):
@@ -73,10 +73,11 @@ WHERE e.value > (
     SELECT 2 * AVG(e2.value)
     FROM electricity e2
     WHERE e2.property = e.property
+    )
       """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
 
 
 def get_highest_daily(cursor):
@@ -93,10 +94,11 @@ WHERE (e.property, e.value) IN (
         MAX(value)
     FROM electricity
     GROUP BY property
+    )
       """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
 
 
 def get_daily_ranking(cursor):
@@ -115,7 +117,7 @@ ORDER BY e.timestamp, rank_pos;
       """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
 
 
 def get_3_day_moving_average(cursor):
@@ -134,4 +136,4 @@ ORDER BY p.name, e.timestamp;
       """)
 
     data = cursor.fetchall()
-    print(data)
+    return data
