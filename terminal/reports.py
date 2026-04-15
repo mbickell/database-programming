@@ -40,14 +40,22 @@ def begin_report_cli(cursor):
         match(command):
             case "1":
                 data = get_total_consumption(cursor)
-                print(data)
-                # [('2418 Päiväkoti Ariel', Decimal('222802.8493')), ('4199 Leikkipuisto Traktori', Decimal('54050.1300'))]
+
+                print("Name \t Total (kWh)\n")
+                for datum in data:
+                    print(datum[0] + "\t" + str(datum[1]))
             case "2":
                 data = get_most_energy_intensive(cursor)
-                print(data)
+
+                print("Name \t Total (kWh)\n")
+                print(data[0] + "\t" + str(data[1]))
             case "3":
+              # [('2418 Päiväkoti Ariel', Decimal('610.41876521')), ('4199 Leikkipuisto Traktori', Decimal('148.08254795'))]
                 data = get_average_daily(cursor)
-                print(data)
+
+                print("Name \t Daily Average (kWh)\n")
+                for datum in data:
+                    print(datum[0] + "\t" + str(datum[1]))
             case "4":
                 data = get_full_report(cursor)
                 print(data)
