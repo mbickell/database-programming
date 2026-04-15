@@ -1,3 +1,4 @@
+from tabulate import tabulate
 from crud.views.report import (
     get_3_day_moving_average,
     get_average_daily,
@@ -40,37 +41,36 @@ def begin_report_cli(cursor):
         match(command):
             case "1":
                 data = get_total_consumption(cursor)
-
-                print("Name \t Total (kWh)\n")
-                for datum in data:
-                    print(datum[0] + "\t" + str(datum[1]))
+                print(tabulate(data, headers=[
+                      "Name", "Total (kWh)"], floatfmt=".4f"))
             case "2":
                 data = get_most_energy_intensive(cursor)
-
-                print("Name \t Total (kWh)\n")
-                print(data[0] + "\t" + str(data[1]))
+                print(tabulate([data], headers=[
+                      "Name", "Total (kWh)"], floatfmt=".4f"))
             case "3":
-              # [('2418 Päiväkoti Ariel', Decimal('610.41876521')), ('4199 Leikkipuisto Traktori', Decimal('148.08254795'))]
                 data = get_average_daily(cursor)
-
-                print("Name \t Daily Average (kWh)\n")
-                for datum in data:
-                    print(datum[0] + "\t" + str(datum[1]))
+                print(tabulate(data, headers=[
+                      "Name", "Daily Average (kWh)"], floatfmt=".4f"))
             case "4":
                 data = get_full_report(cursor)
-                print(data)
+                print(tabulate(data, headers=[
+                    "Name", "Total (kWh)", "Daily Average (kWh)", "Daily Max (kWh)"], floatfmt=".4f"))
             case "5":
                 data = get_detected_anomalies(cursor)
-                print(data)
+                print(tabulate(data, headers=[
+                    "Name", "Timestamp", "Value"], floatfmt=".4f"))
             case "6":
                 data = get_highest_daily(cursor)
-                print(data)
+                print(tabulate(data, headers=[
+                    "Name", "Day", "Value"], floatfmt=".4f", ))
             case "7":
                 data = get_daily_ranking(cursor)
-                print(data)
+                print(tabulate(data, headers=[
+                    "Timestamp", "Name", "Value", "Rank Position"], floatfmt=".4f", ))
             case "8":
                 data = get_3_day_moving_average(cursor)
-                print(data)
+                print(tabulate(data, headers=[
+                    "Name", "Timestamp", "3-Day Average"], floatfmt=".4f", ))
             case "b":
                 break
             case _:
