@@ -204,8 +204,8 @@ SELECT
     pr.name, 
     DATE(e.timestamp), 
     e.value, 
-    p.price_eur_mwhe, 
-    CAST((e.value * p.price_eur_mwhe * 0.001) AS DECIMAL(15,2)) as total
+    p.price_eur_kwhe, 
+    CAST((e.value * p.price_eur_kwhe) AS DECIMAL(15,2)) as total
 FROM electricity e
 JOIN fin_prices_2025 p ON p.date = DATE(e.timestamp)
 JOIN property pr ON pr.id = e.property
