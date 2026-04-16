@@ -10,10 +10,10 @@ load_dotenv()
 
 # connection parameters
 connection_params = {
-    "user" : os.getenv("MARIA_DB_USER"),
-    "password" : os.getenv("MARIA_DB_PASSWORD"),
-    "host" : os.getenv("MARIA_DB_HOST"),
-    "database" : os.getenv("MARIA_DB_DB")
+    "user": os.getenv("MARIA_DB_USER"),
+    "password": os.getenv("MARIA_DB_PASSWORD"),
+    "host": os.getenv("MARIA_DB_HOST"),
+    "database": os.getenv("MARIA_DB_DB")
 }
 
 # Establish a connection
@@ -27,17 +27,18 @@ except mariadb.Error as e:
 cursor = connection.cursor()
 
 with open("./data/electricity_prices.csv", mode='r', newline='') as file:
-  csvFile = csv.DictReader(file)
-  data = []
-  for lines in csvFile:
-    # print(lines)
-    if lines["price"]:
-       data.append((
-          lines["country"],
-          lines["iso3_code"],
-          datetime.strptime(lines["date"], "%Y-%m-%d").date(), # fix to "proper" date
-          Decimal(lines["price"]) # fix to "proper" decimal
-       ))
+    csvFile = csv.DictReader(file)
+    data = []
+    for lines in csvFile:
+        # print(lines)
+        if lines["price"]:
+            data.append((
+                lines["country"],
+                lines["iso3_code"],
+                # fix to "proper" date
+                datetime.strptime(lines["date"], "%Y-%m-%d").date(),
+                Decimal(lines["price"])  # fix to "proper" decimal
+            ))
 
 # user on duplicate key update to manage double entries
 query = """

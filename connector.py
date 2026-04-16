@@ -7,10 +7,10 @@ load_dotenv()
 
 # connection parameters
 connection_params = {
-    "user" : os.getenv("MARIA_DB_USER"),
-    "password" : os.getenv("MARIA_DB_PASSWORD"),
-    "host" : os.getenv("MARIA_DB_HOST"),
-    "database" : os.getenv("MARIA_DB_DB")
+    "user": os.getenv("MARIA_DB_USER"),
+    "password": os.getenv("MARIA_DB_PASSWORD"),
+    "host": os.getenv("MARIA_DB_HOST"),
+    "database": os.getenv("MARIA_DB_DB")
 }
 
 # Establish a connection

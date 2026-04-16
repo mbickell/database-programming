@@ -1,82 +1,92 @@
 import crud.electricity.stats as stats
 
+
 def get_property_code(filename):
-  start_of_code_index = filename.index("/0") + 1
-  end_of_code_index = filename.rindex('.')
-  return filename[start_of_code_index:end_of_code_index]
+    start_of_code_index = filename.index("/0") + 1
+    end_of_code_index = filename.rindex('.')
+    return filename[start_of_code_index:end_of_code_index]
+
 
 def begin_stats_cli(cursor):
-  print("Select your property with it's id number OR enter [G] to group by property")
+    print(
+        "Select your property with it's id number OR enter [G] to group by property")
 
-  user_input = input().lower()
-  propertyID = None
+    user_input = input().lower()
+    propertyID = None
 
-  if user_input != "g":
-    propertyID = int(user_input)
+    if user_input != "g":
+        propertyID = int(user_input)
 
-  while(1):
-    print()
-    
-    if propertyID:
-      print(f"Property with id {propertyID} selected, please select your operation")
-    else:
-      print("Grouping by properties")
-    
-    print("[T]otal, [A]verage, Mi[N], [M]ax, Change [P]roperty, Switch to [G]roup by mode, [B]ack")
-    command = input().lower()
+    while (1):
+        print()
 
-    print()
-
-    match command:
-      case "p":
-        print("Select a new property with it's id number")
-        propertyID = int(input().lower())
-      case "g":
-        propertyID = None
-      case "b":
-        print("Going back...")
-        break
-      case _:
         if propertyID:
-          property_handler(cursor, propertyID, command)
+            print(
+                f"Property with id {propertyID} selected, please select your operation")
         else:
-          group_by_handler(cursor, command)
+            print("Grouping by properties")
+
+        print(
+            "[T]otal, [A]verage, Mi[N], [M]ax, Change [P]roperty, Switch to [G]roup by mode, [B]ack")
+        command = input().lower()
+
+        print()
+
+        match command:
+            case "p":
+                print("Select a new property with it's id number")
+                propertyID = int(input().lower())
+            case "g":
+                propertyID = None
+            case "b":
+                print("Going back...")
+                break
+            case _:
+                if propertyID:
+                    property_handler(cursor, propertyID, command)
+                else:
+                    group_by_handler(cursor, command)
+
 
 def property_handler(cursor, propertyID, command):
-      match command:
+    match command:
         case "t":
-          print(stats.get_total_entries(cursor, propertyID))
+            print(stats.get_total_entries(cursor, propertyID))
         case "a":
-          print(stats.get_average_value(cursor, propertyID))
+            print(stats.get_average_value(cursor, propertyID))
         case "n":
-          data = stats.get_minimum_value(cursor, propertyID)
-          print(f"value: {data[0]}, timestamp: {data[1]}")
+            data = stats.get_minimum_value(cursor, propertyID)
+            print(f"value: {data[0]}, timestamp: {data[1]}")
         case "m":
-          data = stats.get_maximum_value(cursor, propertyID)
-          print(f"value: {data[0]}, timestamp: {data[1]}")
+            data = stats.get_maximum_value(cursor, propertyID)
+            print(f"value: {data[0]}, timestamp: {data[1]}")
         case _:
-          print(command)
+            print(command)
+
 
 def group_by_handler(cursor, command):
-      match command:
+    match command:
         case "t":
-          data = stats.get_group_by_total_entries(cursor)
-          group_by_printer(data, "Total")
+            data = stats.get_group_by_total_entries(cursor)
+            group_by_printer(data, "Total")
         case "a":
-          data = stats.get_group_by_average_value(cursor)
-          group_by_printer(data, "Average")
+            data = stats.get_group_by_average_value(cursor)
+            group_by_printer(data, "Average")
         case "n":
-          data = stats.get_group_by_minimum_value(cursor)
-          group_by_printer(data, "Minimum")
+            data = stats.get_group_by_minimum_value(cursor)
+            group_by_printer(data, "Minimum")
         case "m":
-          data = stats.get_group_by_maximum_value(cursor)
-          group_by_printer(data, "Maximum")
+            data = stats.get_group_by_maximum_value(cursor)
+            group_by_printer(data, "Maximum")
         case _:
-          print(command)
+            print(command)
+
 
 def group_by_printer(data, column_name):
-  for datum in data:
-      if len(datum) > 3:
-        print(f"Code: {datum[0]}, Name: {datum[1]}, Timestamp: {datum[2]}, {column_name}: {datum[3]}")
-      else:
-        print(f"Code: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")
+    for datum in data:
+        if len(datum) > 3:
+            print(
+                f"Code: {datum[0]}, Name: {datum[1]}, Timestamp: {datum[2]}, {column_name}: {datum[3]}")
+        else:
+            print(
+                f"Code: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")
