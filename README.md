@@ -188,7 +188,12 @@ ORDER BY p.name, e.timestamp;
 
 ## Get total energy price used by property day
 ```SQL
-SELECT pr.name, DATE(e.timestamp), e.value, p.price_eur_mwhe, CAST((e.value * p.price_eur_mwhe) AS DECIMAL(15,2)) as total
+SELECT 
+    pr.name, 
+    DATE(e.timestamp), 
+    e.value, 
+    p.price_eur_mwhe, 
+    CAST((e.value * p.price_eur_mwhe * 0.001) AS DECIMAL(15,2)) as total
 FROM electricity e
 JOIN prices p ON p.iso3_code = "FIN" AND p.date = DATE(e.timestamp)
 JOIN property pr ON pr.id = e.property
