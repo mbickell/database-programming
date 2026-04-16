@@ -198,3 +198,15 @@ FROM electricity e
 JOIN prices p ON p.iso3_code = "FIN" AND p.date = DATE(e.timestamp)
 JOIN property pr ON pr.id = e.property
 ```
+With view:
+```SQL
+SELECT 
+    pr.name, 
+    DATE(e.timestamp), 
+    e.value, 
+    p.price_eur_mwhe, 
+    CAST((e.value * p.price_eur_mwhe * 0.001) AS DECIMAL(15,2)) as total
+FROM electricity e
+JOIN fin_prices_2025 p ON p.date = DATE(e.timestamp)
+JOIN property pr ON pr.id = e.property
+```
