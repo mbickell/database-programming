@@ -35,7 +35,7 @@ def handle_data_push(cursor, connection, args):
         location_name = electricity_data[0]["locationName"]
 
         add_property({"code": code, "name": location_name,
-                     "location": location_name})
+                      "location": location_name})
         connection.commit()
 
         property_id = get_property_by_code(cursor, code)[0]

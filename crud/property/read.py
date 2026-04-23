@@ -1,4 +1,5 @@
 from utils import execute
+from tabulate import tabulate
 
 
 def read_properties(cursor):
@@ -11,8 +12,7 @@ def read_properties(cursor):
 def print_properties(cursor):
     data = read_properties(cursor)
 
-    for datum in data:
-        print(f"code: {datum[0]}, name: {datum[1]}, location: {datum[2]}")
+    print(tabulate(data, headers=["Code", "Name", "Location"]))
 
 
 def get_property_by_code(cursor, property_code):
