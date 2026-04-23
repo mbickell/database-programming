@@ -1,7 +1,6 @@
 from tabulate import tabulate
 import crud.electricity.stats as stats
 from crud.property.read import get_property_by_code
-from utils import execute
 
 
 def get_property_code(filename):
@@ -92,10 +91,9 @@ def group_by_handler(cursor, command):
 
 
 def group_by_printer(data, column_name):
-    for datum in data:
-        if len(datum) > 3:
-            print(
-                f"Code: {datum[0]}, Name: {datum[1]}, Timestamp: {datum[2]}, {column_name}: {datum[3]}")
-        else:
-            print(
-                f"Code: {datum[0]}, Name: {datum[1]}, {column_name}: {datum[2]}")
+    if len(data[0]) > 3:
+        print(tabulate(data, headers=[
+              "Code", "Name", "Timestamp", column_name]))
+    else:
+        print(tabulate(data, headers=[
+              "Code", "Name", column_name]))
