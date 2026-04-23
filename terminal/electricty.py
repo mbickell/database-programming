@@ -1,4 +1,5 @@
 import crud.electricity.stats as stats
+from utils import execute
 
 
 def get_property_code(filename):
@@ -9,20 +10,25 @@ def get_property_code(filename):
 
 def begin_stats_cli(cursor):
     print(
-        "Select your property with it's id number OR enter [G] to group by property")
+        "Select your property with it's property code OR enter [G] to group by property")
 
     user_input = input().lower()
-    propertyID = None
+    property_code = None
 
     if user_input != "g":
-        propertyID = int(user_input)
+        property_code = user_input
+
+    execute(f"SELECT id FROM property WHERE code='{property_code}'")
+
+    property = cursor.fetchone()
+    propertyID = property[0]
 
     while (1):
         print()
 
-        if propertyID:
+        if property_code:
             print(
-                f"Property with id {propertyID} selected, please select your operation")
+                f"Property with code {property_code} selected, please select your operation")
         else:
             print("Grouping by properties")
 
@@ -34,7 +40,7 @@ def begin_stats_cli(cursor):
 
         match command:
             case "p":
-                print("Select a new property with it's id number")
+                print("Select a new property with it's property code")
                 propertyID = int(input().lower())
             case "g":
                 propertyID = None
