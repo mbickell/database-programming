@@ -1,0 +1,2557 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 315.522,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 325.16400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 302.5139999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 281.916,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 286.5419999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 290.256,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 495.5760000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 517.074,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 522.4499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 515.814,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 416.29200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 322.46999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 521.244,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 560.424,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 577.506,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 642.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 537.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 441.336,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 339.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 586.596,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 590.9280000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 566.472,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 652.638,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 558.7080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 421.42199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 327.26399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 470.124,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 553.0800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 524.0639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 540.3540000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 537.7259999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 443.56799999999987,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 423.25800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 505.212,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 552.756,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 608.682,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 532.8000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 581.2199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 485.45399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 341.574,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 479.0639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 586.332,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 586.7519999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 547.656,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 510.402,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 414.042,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 293.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 458.5440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 506.08200000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 482.8260000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 582.252,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 606.792,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 409.422,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 343.16400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 467.1600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 535.2899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 579.066,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 562.4279999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 545.496,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 480.78599999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 307.80600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 538.3080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 534.1859999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 552.1560000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 530.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 471.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 388.548,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 312.8639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 431.42400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 518.964,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 553.536,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 580.842,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 553.3140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 451.422,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 471.82200000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 606.1080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 568.2000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 556.452,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 565.836,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 511.62000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 414.52199999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 317.24399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 454.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 619.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 535.0920000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 524.934,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 530.442,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 420.204,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 292.26000000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 431.0040000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 504.708,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 507.6719999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 502.974,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 498.7920000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 435.1859999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 445.76399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 429.20400000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 528.5640000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 525.672,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 534.324,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 526.8240000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 508.476,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 298.40999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 440.96999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 500.034,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 517.3140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 600.1440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 354.942,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 294.828,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 311.406,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 313.062,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 523.4519999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 522.7679999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 600.8160000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 559.8659999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 418.074,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 325.254,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 491.90399999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 514.038,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 556.4459999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 315.0899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 506.98800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 394.76399999999984,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 309.582,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 546.9720000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 488.48999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 509.454,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 515.568,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 511.5899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 405.252,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 303.006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 436.554,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 550.8000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 512.9399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 535.0319999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 437.076,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 418.9140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 345.852,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 416.256,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 489.2759999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 501.8460000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 483.70199999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 448.242,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 371.77800000000013,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 291.61800000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 429.318,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 404.29800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 454.8360000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 288.6900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 415.6140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 363.774,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 285.2940000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 470.18999999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 443.02199999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 454.0500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 455.202,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 444.972,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 286.932,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 285.79799999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 457.89000000000016,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 428.91000000000014,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 466.06800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 525.852,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 451.368,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 270.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 269.958,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 414.366,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 434.1480000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 447.144,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 414.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 293.85600000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 295.09799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 294.36600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 390.252,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 479.92799999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 463.728,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 414.138,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 408.93600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 279.8219999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 277.79400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 387.312,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 388.92599999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 371.94599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 352.0139999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 349.326,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 261.8639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 260.028,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 377.04599999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 376.0979999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 361.31399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 348.978,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 334.602,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 239.38199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 239.3040000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 349.55999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 355.52399999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 338.20200000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 326.73600000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 324.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 245.10599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 248.802,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 267.822,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 260.394,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 259.65599999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 252.87600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 244.45800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 205.13399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 204.04800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 259.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 260.35200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 259.284,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 255.61200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 267.486,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 219.978,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 216.77999999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 306.64799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 334.956,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 293.076,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 318.59400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 353.11799999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 269.93399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 268.3499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 422.98799999999983,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 456.03600000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 449.77199999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 520.9620000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 408.858,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 360.174,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 284.77799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 391.70400000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 471.156,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 479.09400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 457.044,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 427.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 352.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 300.438,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 466.74000000000007,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 509.442,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 497.67,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 518.994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 493.2780000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 399.4380000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 338.45399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 471.5939999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 493.2479999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 485.18999999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 493.21799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 487.0439999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 402.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 291.654,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 465.414,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 488.44800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 487.68000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 484.3139999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 503.646,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 323.89799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 216.16799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 436.2539999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 490.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 508.116,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 531.4440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 485.27399999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 350.42400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 244.92000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 445.0199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 499.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 498.73799999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 498.0900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 502.60800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 409.0559999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 245.28600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 442.16400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 608.532,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 550.3380000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 553.9139999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 509.8200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 393.672,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 302.8320000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 479.0519999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 510.888,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 500.69999999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 510.162,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 522.684,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 429.1440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 261.738,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 467.24399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 508.038,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 530.4780000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 449.304,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 509.388,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 379.398,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 294.186,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 469.842,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 615.1560000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 579.876,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 580.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 516.9180000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 373.58399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 279.348,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 492.35999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 536.3460000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 507.18000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 522.9479999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 525.756,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 349.95600000000013,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 245.03999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 484.9620000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 549.288,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 516.4920000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 541.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 518.616,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 438.1860000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 298.806,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 477.9960000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 528.462,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 547.5900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 580.3260000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 558.222,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 423.6000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 302.0640000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 498.76200000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 621.1140000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 605.406,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 542.502,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 520.308,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 460.4460000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 300.834,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 496.9920000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 668.466,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 577.194,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 582.8399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 545.814,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 412.884,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 262.236,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 464.922,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 561.7499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 524.1299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 535.356,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 499.26599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 303.9480000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 301.03799999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 495.35999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 584.1069999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 458.48999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 564.834,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 627.1920000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 448.00200000000007,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 343.3809999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 524.0559999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 580.5379999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 483.29999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 468.03000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 439.99800000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 325.926,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 256.78200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 360.57000000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 336.78000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 335.80100000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 314.24999999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 288.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 299.58000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 334.00200000000007,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 341.54300000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 330.684,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1526 Annantalo",
+    "value": 300.901,
+    "unit": "kWh"
+  }
+]

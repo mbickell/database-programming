@@ -1,0 +1,2557 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 66.69099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.19200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.96499999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 64.027,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 60.93599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 64.659,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 74.501,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.03899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.04299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 98.60800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.422,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 68.12100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.06799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 82.87899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 100.21900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.83999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 101.816,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 65.16600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 63.147999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.13299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.984,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.41699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.024,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.16799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.28999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.03099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.58900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.14000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.11200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.13999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.738,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.173,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 70.63699999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.10100000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.40899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.96799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.57300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.69900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 75.11700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.74300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.04299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.849,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.73799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.32899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.119,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.59900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 66.323,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.66000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 70.90200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 100.619,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.08600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.871,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 62.138999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 62.844000000000015,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.687,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 73.44600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 92.226,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.943,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.97,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.791,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 66.978,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.66399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.091,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.03500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.06799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 75.105,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.03699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 74.366,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.25600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 76.743,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.74199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 99.029,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 79.502,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 64.90100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.64999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.683,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.15299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 92.735,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 92.73899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.012,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 64.05099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 76.682,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.297,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 74.96899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.85300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.18599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.40700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 63.13699999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.10300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.17200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 82.00500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.091,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.31799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.551,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 66.04599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.20699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.89999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 79.07899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.24600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.25299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.12700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.78499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 99.91199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.782,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.95500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.189,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.614,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.863,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 71.55999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 66.97,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.829,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 73.37599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.41599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.28600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.82000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 70.533,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 73.067,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.38099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.94699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 72.737,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.57199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.91900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.55100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.515,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 79.925,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.266,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 99.22500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.73800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 64.52599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 71.62799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.84600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.857,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 76.73600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.958,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 91.86199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.25700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 72.58800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.12899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 74.84199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.571,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.583,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 92.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 63.838,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 68.45500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 80.42599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 72.62800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 82.119,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 72.15299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 75.32099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 78.91300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.898,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 79.63500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 77.923,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 93.671,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 132.61999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 104.17299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 89.61200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 72.826,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 101.73399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 99.827,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 104.71499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 113.235,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 113.94800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.75500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 102.032,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.69599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 101.522,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 106.92299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.474,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.313,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.27799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.78999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 98.052,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 101.41200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.152,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 106.55900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.24699999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.058,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 96.594,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 88.975,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.50400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.607,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.174,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.95399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.069,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.03399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.753,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.27900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.36299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.90400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.83700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.07300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.80199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.27100000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.28299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.667,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.53699999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.01100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 83.786,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.295,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 85.45900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.631,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.501,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 70.08400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 97.798,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 95.96799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 104.645,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 99.61800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.664,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 84.00600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 69.48899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.839,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 87.99300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 92.79599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.798,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 100.762,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 86.58199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 71.82199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 112.12200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 90.09599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 141.451,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.55799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 177.861,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 183.38799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 169.741,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.15399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 177.58400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.35299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.337,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.30999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 171.31100000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 171.236,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.08299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.76600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.62300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.418,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 167.85399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.38099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 196.15499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.929,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 187.33999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.637,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.397,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 175.12499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 189.31500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.918,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.07999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.637,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.59999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.94299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.85000000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 200.10100000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.122,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.94800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.265,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 197.686,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.37500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 171.85900000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 196.03799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 181.93200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 204.649,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 198.377,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 197.33999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 182.968,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.80400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 203.891,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.459,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.48300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.76800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 200.209,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 205.14399999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 196.26100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 184.53000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 190.74299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 197.81799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.35500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.39500000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.73499999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.51100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.905,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 201.38400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 198.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 187.49000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 187.44400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.604,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 175.396,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 200.72000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.689,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.76099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.083,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 183.52200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.65200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.59400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 188.69699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 189.61699999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.94899999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 188.81600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.77100000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 188.49000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.31699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.46600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.21899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.1440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 175.143,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 170.958,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 186.70699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 177.01899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.08100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 191.74699999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.282,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.95999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 168.64500000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 177.19599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 145.211,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.161,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 169.49599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 171.76000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 169.68099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 181.768,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 181.94499999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.84500000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.78199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 188.247,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 201.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.58900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.76899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.872,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.364,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.52100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 196.53599999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 196.449,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.39400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 194.07000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.831,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 190.439,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 192.32299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 198.06500000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 195.39400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 174.816,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 193.03500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 180.743,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 185.40699999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.39899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.87399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 175.592,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.26300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 176.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 162.63700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 175.229,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.389,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.41600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 171.11200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 172.04200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 173.55700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 157.186,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1527 Koskelan NT",
+    "value": 94.22,
+    "unit": "kWh"
+  }
+]

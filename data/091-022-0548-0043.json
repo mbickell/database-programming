@@ -1,0 +1,2557 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 431.616,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 448.688,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 451.144,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 374.568,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 446.0160000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 436.936,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 335.488,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 333.672,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 326.61599999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 421.6080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 473.00800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 333.47200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 499.86400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 355.61600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 471.4479999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 320.37600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 328.04799999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 308.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 448.13599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 488.112,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 451.59999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 463.5760000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 334.47200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 327.704,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 279.048,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 285.33599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 343.15199999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 333.81600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 319.136,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 338.1840000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 348.3520000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 443.264,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 457.576,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 459.3040000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 377.47200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 445.032,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 287.60799999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 348.592,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 360.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 360.536,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 399.872,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 401.71200000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 398.42400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 403.64799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 245.784,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 202.47199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 205.40799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 313.01599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 363.2719999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 363.496,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 413.728,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 409.064,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 366.656,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 350.09599999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 363.74399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 332.4960000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 252.07999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 288.304,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 258.304,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 355.704,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 365.11199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 293.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 249.688,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 298.73600000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 233.344,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 230.408,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 187.03199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 220.432,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 225.688,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 386.944,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 405.33599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 424.088,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 402.936,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 255.304,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 354.4800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 383.76800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 303.8959999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 240.10399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.67199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 259.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 231.424,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 232.23999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 220.47999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 236.55199999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 230.032,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 264.024,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 242.16000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 195.16000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.92800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 262.50399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 247.49799999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.184,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 220.784,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 223.024,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 348.536,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 276.00800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 290.62399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 290.112,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 279.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 361.40000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 387.432,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 270.56000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 178.60799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 227.63200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 237.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 247.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 244.44799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.624,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.25600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.09599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 204.968,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 235.41600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 249.99200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 242.16799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 246.81599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 211.65600000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.544,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.488,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 233.232,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 208.91199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 170.456,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 208.35200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 163.168,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 160.33600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 252.256,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 233.07999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 234.06399999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 200.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 187.12800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 162.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 173.33599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.72799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.78400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 205.064,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 206.87199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 191.472,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 172.98400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 169.98400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.85599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 189.304,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 189.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 189.14399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 191.20000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 161.392,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 160.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.184,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.424,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.31200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 164.88000000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.208,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 153.77599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 149.54399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.99200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.05600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 209.52800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 219.28800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.19999999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 158.112,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 155.088,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.76800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 207.128,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.25599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 219.696,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 194.464,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 149.27200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 148.67200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 190.792,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.85599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 199.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.87200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 154.04799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 143.67200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 143.22399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 175.79199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.91200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.768,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 187,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 179.65599999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 152.664,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 149.35199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.17599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 181.096,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.93600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.136,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.12800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 148.43200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 148.408,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 196.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.104,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 199.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 178.82399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.00799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 152.26399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 151.02399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 192.752,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.31200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.92800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.528,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 191.16800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 167.35199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 169.89600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 195.00000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 189.07200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.73600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.04000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 190.54399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 162.232,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 167.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 195.77600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.76800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.67200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 199.33599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 190.93599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 168.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 167.664,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 196.60799999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 182.72000000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 200.56000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 189.94400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 190.848,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 163.40800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 167.624,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 192.83199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 196.39999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 199.672,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.19999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 197.32799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 169.36799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 171.32799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.328,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.056,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 208.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 196.648,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 198.75199999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 164.37599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 168.01599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 207.55199999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 204.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.47200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 217.64000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 212.648,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 180.52800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.58399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 215.99199999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.752,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.98399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 210.73600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 179.432,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 186.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 218.71200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.62399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 223.34400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 209.13599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 214.77599999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 177.64800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.352,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 222.56799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 222.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.82399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.39200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.73600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 179.53599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.88,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 212.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 225.328,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 212.68000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 199.02400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 143.76799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 152.87199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 220.632,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 221.81600000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 234.11999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.36000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 225.62400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.048,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.50400000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.392,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 215.93599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 219.16000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.40800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 206.29600000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 177.05599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.96800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 217.28000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 215.536,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 221.624,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.34400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.352,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 232.992,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 196.952,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 221.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 232.272,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 231.43200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 220.36800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 222.41600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 187.19199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 200.776,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 225.04799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 232.744,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 233.216,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 219.43999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 230.12800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 188.176,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 193.504,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 218.02399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 219.38400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 226.96800000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 229.416,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 231.94399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 201.40000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 206.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 236.872,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 237.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 230.28799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 222.19200000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 290.296,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 332.66400000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 204.07200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 297.448,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 392.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 385.41599999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 280.9360000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 285.03999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 299.08799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 197.016,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 251.66400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 382.40000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 396.1120000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 339.984,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 231.67200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.72799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 183.15200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 222.50400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 230.55200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 233.256,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 215.69600000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 203.79999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 178.16000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 184.79199999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 213.10399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 212.14399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 278.608,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 171.232,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 304.82399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 285.432,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 296.6239999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 171.78399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 170.45600000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 215.02399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 207.05599999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 205.944,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 177.20000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 216.56800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 385.9919999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 379.45599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 343.18399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 218.504,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 185.05599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 301.32800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 351.104,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 392.19199999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 364.63999999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1513 Sturenkatu 25, Toimistorakennus",
+    "value": 212.74400000000003,
+    "unit": "kWh"
+  }
+]

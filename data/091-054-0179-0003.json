@@ -1,0 +1,5112 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1549.8500000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1825,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1789.9800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1658.1499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1523.67,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1543.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1905.9000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1880.4900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1886.1400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1858.8599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1709.8999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1512.5500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2061.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2157.81,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2164.8599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2063.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2067.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1897.0699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1614.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2033.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2224.6300000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2267.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2274.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2154.7900000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1972.8200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1682.6499999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2173.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2343.2700000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2377.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2303.23,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2242.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2037.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1714.5600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2264.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2219.9900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2365.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2273.9099999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2273.8999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1984.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1786.62,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2110.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2324.6900000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2236.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2253.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2133.38,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1847.2999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1546.8700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1898.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1976.7800000000007,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1968.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2028.3099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2077.9700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1858.4299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1566.6000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2084.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2111.7300000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2258.4900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2223.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1990.4500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1948.4499999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1519.2299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1947.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2033.4900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2177.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2138.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1936.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1623.4899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1294.2399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1798.2500000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2026.81,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2135.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2207.9300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2161.9100000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1932.0100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1294.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1707.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2034.5900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1801.3899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1997.6900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1723.0700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1528.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1115.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1842.3300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2143.6099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1792.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1936.7399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2145.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1615.6299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1221.0900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1690.9,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1816.9499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1685.8899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1857.4500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1735.7399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1670.72,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1319.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1641.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1702.2800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1660.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1716.9100000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1803.1599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1684.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 959.6600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1526.2899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1371.6999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1491.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1635.4599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1248.4599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1272.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1328.8999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1379.4699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1793.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1835.1800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1456.72,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1550.9000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1365.6300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 922.8199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1397.42,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1510.6699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1464.0499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1012.0699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1618.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1188.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1036.9399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1167.3300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1687.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1488.0200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1576.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1691.4700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1229.9400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 717.1199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 995.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1293.9399999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1414.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1552.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1201.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1047.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 897.2999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1025.4800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1213.2299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1526.8899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1365.5600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1895.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1554.3999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1159.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1339.8200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1366.5900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1754.8300000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1139.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1474.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1164.8300000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 801.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1640.01,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1320.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1222.8800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1501.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1154.4199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1085.8999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 850.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1574.9800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1176.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1530.8100000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1649.1499999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1203.0100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 930.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 955.6900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1388.6000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1591.4799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1488.6200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1499.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 952.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1231.0500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1043.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1289.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1626.5399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1505.58,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1135.0700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1397.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1444.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1301.4200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1397.5500000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1351.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1306.1399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1502.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1204.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1294.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1560.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1578.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1611.1700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1291.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1501.1599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1665.0299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1598.5099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1568.9499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1658.8500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1815.1599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1836.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1803.0899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1506.3899999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1304.8600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1442.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1731.4499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1868.7299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1681.0800000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1736.7799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1663.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1626.2699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1648.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2038.8400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2307.8900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1877.4300000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2013.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1947.7600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1331.7300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1511.1500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1989.5000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1797.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1624.6200000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1423.3600000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1496.4499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1173.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1264.1299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1565.1899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1661.3700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1520.9299999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1414.4799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1306.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1125.3999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1080.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1270.0800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1514.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1599.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1638.66,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1484.5599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1383.0999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1339.7899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1571.9199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1659.5999999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1594.6499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1609.2999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2003.9599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1916.4399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1499.7800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1899.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1826.7299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1805.62,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1765.6599999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1840.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1584.7700000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1545.9000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1820.2100000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1689.3999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2051.7699999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2012.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2151.109999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1777.5700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1562.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2023.6400000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2069.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1906.8600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1944.5500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2138.7900000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1982.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1644.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1963.6000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1994.5000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1857.5000000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1892.7899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1769.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1627.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1288.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1673.7799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1831.7399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1930.62,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2012.8499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1905.0999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1793.4699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1416.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1858.2400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2066.3599999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2031.8199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1926.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1839.1100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1533.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1327.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1710.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1788.7600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1868.3400000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1899.7399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1804.5099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1740.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1407.4499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1899.6299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2051.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2138.3800000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2297.979999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2060.4500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2077.9300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1632.05,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1978.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2047.1899999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2087.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2138.1200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2070.7199999999993,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1588.3100000000006,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1522.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2001.61,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2095.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2087,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1966.2800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2049.3,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1879.7200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1590.8999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1969.1799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2126.05,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2065.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2215.6099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2076.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1802.3500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1462.0300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1933.9499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2049.7100000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2191.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2287.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2103.62,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1944.8600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1584.1099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1997.2099999999994,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2132.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2200.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2305.8299999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2108.97,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1912.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1580.5799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2121.7999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2084.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2037.3799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 2083.2619999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1926.207,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1391.182,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1429.1000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1834.6309999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1678.316,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1970.3350000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1621.147,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1701.817,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1474.3809999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1191.154,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1551.9799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1684.3659999999995,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1777.085,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1600.7509999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1797.517,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1704.8910000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1566.8569999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1814.2870000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1769.8220000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1596.254,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1574.1510000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1596.8110000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1593.4969999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1437.9270000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1690.4979999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1698.1809999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1037 Vuotalo",
+    "value": 1648.7660000000005,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1037.7299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1036.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1006.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1090.3500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1098.6399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1069.1200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1095.6000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1053.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1093.1399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1070.1999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1001.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1010.4399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 973.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 995.1200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 971.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 973.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 994.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 991.56,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 964.6700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 996.5500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1026.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 990.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1000.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 992.3500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 956.01,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 999.5999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 972.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 995.3900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1004.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1051.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1055.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 968.8599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 998.1999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1090.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1067.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1123.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1086.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1076.1999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1039.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1037.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1017.6999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1015.9399999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1039.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 993.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1018.3499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1016.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 989.6700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 985.8400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 948.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1008.4299999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 969.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1001.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 986.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 956.8900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 967.8099999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1001.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 967.0799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 994.5500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 960.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 989.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 981.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 969.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 960.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 927.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 923.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 971.75,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 944.4599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 956.7,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 958.0300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1054.6899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1020.1500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1020.75,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1006.2300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1046.4800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1008.5500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 976.5300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 991.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1009.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 979.4200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1021.6299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1025.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1021.3300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1027.4200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 997.6600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 977.66,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1016.0100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1034.0099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1043.2500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 982.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 994.09,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 957.5300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 939.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 941.7599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 944.4000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 961.8400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 960.8000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 966.4100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 949.1400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1005.0499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 978.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 955.8400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1011.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 985.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 909.6700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 916.6100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 934.4099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 936.87,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 942.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 960.1799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 954.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 912.4200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1010.7600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1021.6700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1036,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1074.5800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 945.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 965.8000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 994.2200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 969.4300000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 970.1999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 888.8599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 962.8299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 878.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 994.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1106.7700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1139.2200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1077.1500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1005.0500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1010.2900000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1008.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 989.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1006.72,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 976.2399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1019.6800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1017.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 989.0799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 958.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 938.71,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 967.4099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1033.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 975.5300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 935.4100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 966.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 911.1099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 960.4999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1066.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1046.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 978.8000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 921.16,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 979.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 939.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 929.09,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 914,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 917.6600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 925.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 929.0400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 934.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 983.2,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 931.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 951.1400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 984.8800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 997.9899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1078.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1091.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1086.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1042.8700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1089.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1105.6800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1085.2200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1036.4099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1003.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 973.7099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 862.9799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 923.6999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 875.0700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 937.8700000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 884.1800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 887.7599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 915.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 860.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 871.8599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 852.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 861.9300000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 889.52,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 895.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 888.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 841.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 893.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 875.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 886.4999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 885.4399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 920.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 887.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 920.32,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 877.14,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 843.88,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 841.3599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 859.0999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 865.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 925.9500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 903.0199999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 894.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 904.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 909.6799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 926.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 950.6399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 936.7599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 928.4200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 908.3199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 875.4599999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 924.3899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1046.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1165.66,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1179.8900000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1123.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1092.3799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1130.77,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1128.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1124.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1114.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1108.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1114.8800000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1108.3899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1108.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1102.41,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1098.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1116.3999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1163.18,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1173.15,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1139.22,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1122.29,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1132.5799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1124.93,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1143.2900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1126.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1111.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1109.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1132.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1107.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1119.4500000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1177.5900000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1128.7900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1135.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1108.4499999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1140.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1127.3500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1185.74,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1163.76,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1199.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1182.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1133.5200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1111.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1089.12,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1084.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1099.8699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1090.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1064.7999999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1046.5400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1020.0299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 908.0700000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 959.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 909.26,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 912.0999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 883.23,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 915.2199999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 988.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1036.9599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1110.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1138.5300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1102.2099999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1070.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1083.7800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1128.3300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1156.75,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1164.4799999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1172.3199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1190.7399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1180.44,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1180.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1180.2900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1158.3000000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1132.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1149.11,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1138.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1072.6799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1054.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1060.0600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1025.3899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 978.0899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 956.0799999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 986.5100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 943.1600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1001.9399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1061.55,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1054.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1037.2000000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1057.25,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1048.1399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1098.6299999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1028.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1060.0400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1070.73,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1085.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1110.8999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1110.84,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1131.35,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1077.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1161.4,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1122.7699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1132.4900000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1155.4899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1169.37,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1194.1000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1212,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1196.09,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1179.3600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1160.01,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1278.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1149.9399999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1198.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1159.65,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1199.5299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1307.1699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1320.6000000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1316.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1184.99,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1177.43,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1119.1000000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1040.57,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1033.8400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1041.68,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1048.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1022.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1012.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1033.17,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1105.61,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1076.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1079.0400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1078.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1101.19,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1105.6100000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1131.8200000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1175.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1151.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1166.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1225.91,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1299.5299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1313.2200000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1288.66,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1194.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1243.8600000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1246.0800000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1219.21,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1219.3199999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1311.3500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1309.2500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1357.4599999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1330.0600000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1270.6200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1296.8999999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1361.7699999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1350.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1304.86,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1338.6799999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "4438 Vuosaaren lukio",
+    "value": 1311.55,
+    "unit": "kWh"
+  }
+]
