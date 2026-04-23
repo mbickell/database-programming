@@ -1,5 +1,5 @@
-from utils import execute
 from tabulate import tabulate
+from utils import execute
 
 
 def read_properties(cursor):

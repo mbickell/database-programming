@@ -1,4 +1,6 @@
+from tabulate import tabulate
 import crud.electricity.stats as stats
+from crud.property.read import get_property_by_code
 from utils import execute
 
 
@@ -14,14 +16,11 @@ def begin_stats_cli(cursor):
 
     user_input = input().lower()
     property_code = None
+    propertyID = None
 
     if user_input != "g":
         property_code = user_input
-
-    execute(f"SELECT id FROM property WHERE code='{property_code}'")
-
-    property = cursor.fetchone()
-    propertyID = property[0]
+        propertyID = get_property_by_code(cursor, property_code)[0]
 
     while (1):
         print()
@@ -41,14 +40,16 @@ def begin_stats_cli(cursor):
         match command:
             case "p":
                 print("Select a new property with it's property code")
-                propertyID = int(input().lower())
+                property_code = input().lower()
+                propertyID = get_property_by_code(cursor, property_code)[0]
             case "g":
                 propertyID = None
+                property_code = None
             case "b":
                 print("Going back...")
                 break
             case _:
-                if propertyID:
+                if property_code:
                     property_handler(cursor, propertyID, command)
                 else:
                     group_by_handler(cursor, command)
@@ -57,15 +58,17 @@ def begin_stats_cli(cursor):
 def property_handler(cursor, propertyID, command):
     match command:
         case "t":
-            print(stats.get_total_entries(cursor, propertyID))
+            print(
+                f"Total entries: {stats.get_total_entries(cursor, propertyID)}")
         case "a":
-            print(stats.get_average_value(cursor, propertyID))
+            print(
+                f"Average value: {stats.get_average_value(cursor, propertyID)}")
         case "n":
             data = stats.get_minimum_value(cursor, propertyID)
-            print(f"value: {data[0]}, timestamp: {data[1]}")
+            print(tabulate([data], headers=["Value", "Timestamp"]))
         case "m":
             data = stats.get_maximum_value(cursor, propertyID)
-            print(f"value: {data[0]}, timestamp: {data[1]}")
+            print(tabulate([data], headers=["Value", "Timestamp"]))
         case _:
             print(command)
 
