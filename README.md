@@ -210,3 +210,11 @@ FROM electricity e
 JOIN fin_prices_2025 p ON p.date = DATE(e.timestamp)
 JOIN property pr ON pr.id = e.property
 ```
+
+# Presentation
+
+- Something creative...
+- Add more properties
+- Run some more specific queries...
+- Time limit: 5-10 minutes
+- Maybe the schema
