@@ -4,7 +4,7 @@ from utils import execute
 
 def read_json_data(filename):
     try:
-        with open(filename) as json_file:
+        with open(filename, encoding="utf8") as json_file:
             return json.load(json_file)
     except:
         print("File not opened")
