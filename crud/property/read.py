@@ -19,5 +19,5 @@ def get_property_by_code(cursor, property_code):
     execute(
         f"SELECT id, code, name, location FROM property WHERE code=\"{property_code}\"")
 
-    data = cursor.fetchall()
+    data = cursor.fetchone()
     return data

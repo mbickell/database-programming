@@ -1,0 +1,2557 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 802.4140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1074.1219999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1051.7980000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 763.158,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 730.788,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 835.422,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1120.7040000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1155.4120000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1160.7220000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1110.49,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 806.7020000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 777.744,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1128.434,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1185.024,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1133.9859999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1174.83,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1137.1499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 857.1419999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 822.7579999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1162.746,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1163.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1153.644,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1155.456,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1108.4080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 836.236,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 800.3499999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1144.81,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1184.04,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1146.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1161.5899999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-01-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1102.942,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 823.944,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 801.7639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1137.89,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1171.82,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1163.8780000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1137.2979999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1120.148,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 839.1740000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 825.2959999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1160.4019999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1173.032,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1110.7440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1127.576,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1118.824,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 821.4180000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 798.018,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1147.2559999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1138.772,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1069.4520000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1075.34,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1059.874,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 832.136,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 803.5160000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1128.812,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1142.8519999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1198.716,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1087.0279999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-02-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1089.7440000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 741.3339999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 714.794,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.066,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1047.214,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1049.8899999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1016.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 950.45,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 714.404,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 689.4459999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1002.1180000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1034.2779999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1058.6580000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1088.184,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1045.1179999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 783.1099999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 755.1400000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1068.0979999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1078.02,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1044.424,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.508,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 993.476,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 762.1800000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 732.5819999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1060.1440000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1088.36,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1024.0699999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1023.314,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1012.9279999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 755.1,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 718.914,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-03-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1065.0320000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1057.026,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1030.846,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1024.056,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1006.6899999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 775.8919999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 744.144,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1063.598,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1062.908,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1043.1399999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1043.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1045.85,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 765.2879999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 727.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1034.686,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1022.274,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1015.64,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1032.356,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 815.7180000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 751.238,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 753.0720000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 862.6999999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1053.5839999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1059.94,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1052.442,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1011.6460000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 772.0040000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 741.31,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1068.352,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1054.2259999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-04-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.8500000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 829.552,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1001.8720000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 766.6179999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 737.234,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1048.846,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1092.08,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1072.198,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1069.4580000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1034.662,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 768.3280000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 735.886,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1049.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1039.646,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1052.406,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1067.4660000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1009.2840000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 794.684,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 737.4219999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1041.596,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1028.534,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1020.126,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1022.8080000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1022.758,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 759.3080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 731.452,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1033.682,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1018.9639999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 990.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 806.2459999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 933.468,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-05-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 771.978,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 728.28,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.212,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 994.2080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 987.4740000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1033.79,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 965.4059999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 719.252,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 681.262,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.06,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1011.836,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1032.6819999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1082.726,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1023.854,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 768.9559999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 736.92,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 886.018,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1017.2760000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1033.552,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1016.5079999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 847.9840000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 783.8480000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 766.898,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1043.676,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1053.192,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1049.712,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1025.588,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 986.518,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 804.7660000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 756.9200000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-06-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 975.736,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 967.884,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 968.0139999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 975.106,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 919.1560000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 752.238,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 720.922,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 972.4939999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1002.1940000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 954.448,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 949.418,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 923.238,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 724.954,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 683.332,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 934.7939999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 924.6819999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 908.152,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 919.026,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 903.6439999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 739.7459999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 714.9760000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 961.0519999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1000.1100000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 975.0459999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 975.3760000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 942.3159999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 785.684,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 763.96,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1023.7080000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1042.596,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1040.07,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-07-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1023.6080000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1009.564,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 819.406,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 769.004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1135.766,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1254.1740000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 969.5559999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 841.3059999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 798.2660000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 623.358,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 610.366,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1051.064,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1245.688,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1163.5959999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1169,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1146.482,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 999.148,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 937.0659999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1238.202,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1342.142,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1339.108,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1350.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1318.402,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1165.1719999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1138.51,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1427.7799999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1430.704,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1409.374,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1380.5140000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1366.078,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1148.9219999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-08-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1116.59,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1389.4160000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1411.27,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1391.0819999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1374.4860000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1342.328,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1152.738,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1124.1319999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1385.0240000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1417.5620000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1414.124,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1379.458,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1360.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1117.24,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1057.864,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1433.7380000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1508.618,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1466.588,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1452.8939999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1340.098,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1111.2540000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1065.1039999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1368.3180000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1426.2640000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1436.0299999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1405.132,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1360.6999999999996,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1177.6380000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1154.322,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1423.1659999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-09-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1405.1480000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1439.5080000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1461.192,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1382.134,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1122.668,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1123.228,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1446.306,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1426.33,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1450.114,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1406.0240000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1352.446,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1092.114,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1070.46,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1394.474,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1454.418,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1455.9179999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1430.014,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1351.7359999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1156.8220000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1125.008,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1453.552,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1474.4419999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1509.5,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1497.39,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1427.438,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1347.164,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1346.998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1502.48,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1541.53,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1501.182,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1482.726,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-10-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1431.702,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1148.0459999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1138.332,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1442.4700000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1486.732,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1500.0500000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1457.408,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1391.508,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1217.1860000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1149.47,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1466.95,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1510.6420000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1535.54,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1499.576,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1421.8120000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1233.0400000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1204.0539999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1498.7780000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1526.3960000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1491.8,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1489.7540000000004,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1475.7160000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1246.78,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1222.306,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1562.8759999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1590.9420000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1594.0439999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1533.9419999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1433.5819999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1228.7220000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-11-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1169.6520000000003,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-01T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1527.2420000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-02T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1575.134,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-03T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1536.63,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-04T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1456.8499999999997,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-05T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1315.6180000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-06T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1075.2300000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-07T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1072.286,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-08T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1431.618,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-09T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1470.932,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-10T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1431.8739999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-11T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1267.8239999999998,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-12T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1337.5320000000002,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-13T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1096.858,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-14T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1083.03,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-15T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1411.9279999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-16T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1431.012,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-17T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1366.092,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-18T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1330.218,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-19T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1295.384,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-20T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1064.6,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-21T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1031.532,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-22T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1219.7740000000001,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-23T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1184.98,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-24T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1056.932,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-25T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1065.644,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-26T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1063.69,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1063.9379999999999,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-28T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1037.242,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-29T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1258.726,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-30T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1281.282,
+    "unit": "kWh"
+  },
+  {
+    "timestamp": "2025-12-31T00:00:00",
+    "reportingGroup": "Electricity",
+    "locationName": "1561 Helsinginkatu 24, Työterveys Helsinki",
+    "value": 1248.564,
+    "unit": "kWh"
+  }
+]

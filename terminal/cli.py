@@ -26,7 +26,7 @@ def cli_setup():
 
 def handle_data_push(cursor, connection, args):
     code = get_property_code(args.file)
-    exists = len(get_property_by_code(cursor, code)) > 0
+    exists = get_property_by_code(cursor, code)
 
     if exists:
         print("Property already exists")
@@ -38,6 +38,6 @@ def handle_data_push(cursor, connection, args):
                      "location": location_name})
         connection.commit()
 
-        property_id = get_property_by_code(cursor, code)[0][0]
+        property_id = get_property_by_code(cursor, code)[0]
         insert_electricity(connection, electricity_data, property_id)
         print("Property and electricity data added")
