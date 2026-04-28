@@ -26,7 +26,7 @@ def request_property():
 def commit_property_add(connection, property):
     while (1):
         print(
-            f"Property with values - code: {property["code"]}, name: {property["name"]}, location: {property["location"]}")
+            f"Property with values - code: {property['code']}, name: {property['name']}, location: {property['location']}")
         print(
             "Is ready to commit, please press [Y] to commit or [N] to rollback")
         print()
