@@ -19,6 +19,21 @@ CREATE TABLE `electricity` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
+DROP VIEW IF EXISTS `fin_prices_2025`;
+CREATE TABLE `fin_prices_2025` (`date` date, `price_eur_kwhe` decimal(14,6));
+
+
+DROP TABLE IF EXISTS `prices`;
+CREATE TABLE `prices` (
+  `country` varchar(100) NOT NULL,
+  `iso3_code` varchar(3) NOT NULL,
+  `date` date NOT NULL,
+  `price_eur_mwhe` decimal(10,2) NOT NULL,
+  PRIMARY KEY (`iso3_code`,`date`),
+  KEY `date` (`date`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
 DROP TABLE IF EXISTS `property`;
 CREATE TABLE `property` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
@@ -29,4 +44,7 @@ CREATE TABLE `property` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin;
 
 
--- 2026-04-02 05:18:42
+DROP TABLE IF EXISTS `fin_prices_2025`;
+CREATE ALGORITHM=UNDEFINED SQL SECURITY DEFINER VIEW `fin_prices_2025` AS select `prices`.`date` AS `date`,`prices`.`price_eur_mwhe` / 1000 AS `price_eur_kwhe` from `prices` where `prices`.`iso3_code` = 'FIN' and `prices`.`date` between '2025-01-01' and '2025-12-31';
+
+-- 2026-04-30 08:26:13
